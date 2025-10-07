@@ -1,0 +1,1 @@
+% Predicados auxiliares

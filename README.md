@@ -25,5 +25,5 @@ uv sync
 
 Para ejecutar el proyecto, usa el siguiente comando:
 ```bash
-uv run main.py
+uv run ai-muni-rec
 ```

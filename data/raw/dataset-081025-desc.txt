@@ -1,0 +1,39 @@
+Impresión del perfil general
+
+- población total: población
+
+- población indígena: pob_indigena
+
+- población con pobreza extrema: pobr_ext
+
+- población con pobreza moderada: pobr_mod
+
+- grado de marginación: grad_margi
+
+- grado de rezago social: grad_rez_social
+
+- acceso a servicios básicos (falta)
+
+- acceso a servicios de salud: cama_hospital, cama_fuera_hospital, cama_rec_nac, consultorios, equipamento, medicos_otros, medicos_gen_esp_odont, otro_pers, otro_pers_prof, enfermeria_contac_paciente, enfermeria_otras, medicos_adiest, per_tecnico, total_elementos_salud
+
+- rezago educativo: población, pob_analfabeta, por_mas_15_analfabeta, tasa_alfa_1524, grad_escol_prom_15
+
+- brecha digital: viv_internet, viv_computadoras, viv_celular
+
+- vulnerabilidad climática o geográfica (falta)
+
+- capacidad institucional (falta)
+
+
+
+Indicadores y sus columnas
+
+- Marginación: grad_margi
+
+- Rezago social: grad_rez_social
+
+- Brecha digital - Conectividad: viviendas, viv_internet, viv_computadoras, viv_celular 
+
+- Educación -Rezago educativo: población, pob_analfabeta, por_mas_15_analfabeta, tasa_alfa_1524, grad_escol_prom_15
+
+- Acceso a servicios de salud: cama_hospital, cama_fuera_hospital, cama_rec_nac, consultorios, equipamento, medicos_otros, medicos_gen_esp_odont, otro_pers, otro_pers_prof, enfermeria_contac_paciente, enfermeria_otras, medicos_adiest, per_tecnico, total_elementos_salud

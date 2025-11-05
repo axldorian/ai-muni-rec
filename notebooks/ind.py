@@ -7,8 +7,12 @@ def grade_connectivity(row: pd.Series):
     a internet, computadoras y celular.
     """
     # Verificar datos faltantes
-    if pd.isna(row["viv"]) or pd.isna(row["viv_internet"]) or \
-       pd.isna(row["viv_computadoras"]) or pd.isna(row["viv_celular"]):
+    if (
+        pd.isna(row["viv"])
+        or pd.isna(row["viv_internet"])
+        or pd.isna(row["viv_computadoras"])
+        or pd.isna(row["viv_celular"])
+    ):
         return "Sin datos"
 
     if row["viv"] == 0:
@@ -22,13 +26,13 @@ def grade_connectivity(row: pd.Series):
     promedio = pct_internet * 0.4 + pct_celular * 0.4 + pct_computadoras * 0.2
 
     if promedio >= 70:
-        return "Alta conectividad"
+        return "Alto"
     elif promedio >= 40:
-        return "Conectividad media"
+        return "Medio"
     elif promedio >= 20:
-        return "Baja conectividad"
+        return "Bajo"
     else:
-        return "Muy baja conectividad"
+        return "Muy bajo"
 
 
 def grade_basic_services(row: pd.Series):
@@ -45,13 +49,13 @@ def grade_basic_services(row: pd.Series):
     pct_carencias = (row["pob_car_ser_basicos"] / row["pob_total"]) * 100
 
     if pct_carencias <= 10:
-        return "Buen acceso a servicios básicos"
+        return "Alto"
     elif pct_carencias <= 30:
-        return "Acceso moderado a servicios básicos"
+        return "Medio"
     elif pct_carencias <= 60:
-        return "Bajo acceso a servicios básicos"
+        return "Bajo"
     else:
-        return "Muy bajo acceso a servicios básicos"
+        return "Muy bajo"
 
 
 def grade_health(row: pd.Series):
@@ -69,13 +73,13 @@ def grade_health(row: pd.Series):
     elementos_por_mil = (row["total_elementos_salud"] / row["pob_total"]) * 1000
 
     if elementos_por_mil >= 5:
-        return "Buen acceso a servicios de salud"
+        return "Alto"
     elif elementos_por_mil >= 2:
-        return "Acceso moderado a servicios de salud"
+        return "Medio"
     elif elementos_por_mil >= 1:
-        return "Bajo acceso a servicios de salud"
+        return "Bajo"
     else:
-        return "Muy bajo acceso a servicios de salud"
+        return "Muy bajo"
 
 
 def grade_education(row: pd.Series):
@@ -84,27 +88,30 @@ def grade_education(row: pd.Series):
     y el grado de escolaridad promedio.
     """
     # Verificar datos faltantes
-    if pd.isna(row["pob_total"]) or pd.isna(row["tasa_de_analfabetizacion"]) or \
-       pd.isna(row["grado_promedio_de_escolaridad"]):
+    if (
+        pd.isna(row["pob_total"])
+        or pd.isna(row["tasa_de_analfabetizacion"])
+        or pd.isna(row["grado_promedio_de_escolaridad"])
+    ):
         return "Sin datos"
 
     if row["pob_total"] == 0:
         return "Sin datos"
-
 
     # Combinación de factores (mayor alfabetización y escolaridad = menor rezago)
     pct_analfabetizacion = row["tasa_de_analfabetizacion"]
     escolaridad = row["grado_promedio_de_escolaridad"]
     score = (pct_analfabetizacion * 0.6) + ((12 - escolaridad) * 0.4)
 
-    if score <= 5:
-        return "Bajo rezago educativo"
-    elif score <= 15:
-        return "Rezago educativo moderado"
-    elif score <= 30:
-        return "Alto rezago educativo"
+    if score >= 30:
+        return "Muy alto"
+    elif score >= 15:
+        return "Alto"
+    elif score >= 5:
+        return "Medio"
     else:
-        return "Muy alto rezago educativo"
+        return "Bajo"
+
 
 # Indicador que utilice la caracteristica "gini"
 def grade_gini(row: pd.Series):
@@ -114,15 +121,24 @@ def grade_gini(row: pd.Series):
     # Verificar datos faltantes
     if pd.isna(row["gini"]):
         return "Sin datos"
-    
-    if row["gini"] < 0.2:
-        return "Baja desigualdad"
-    elif row["gini"] < 0.4:
-        return "Desigualdad moderada"
-    elif row["gini"] < 0.6:
-        return "Alta desigualdad"
+
+    # if row["gini"] < 0.2:
+    #     return "Baja desigualdad"
+    # elif row["gini"] < 0.4:
+    #     return "Desigualdad moderada"
+    # elif row["gini"] < 0.6:
+    #     return "Alta desigualdad"
+    # else:
+    #     return "Muy alta desigualdad"
+
+    if row["gini"] >= 0.6:
+        return "Muy alta"
+    elif row["gini"] >= 0.4:
+        return "Alta"
+    elif row["gini"] >= 0.2:
+        return "Media"
     else:
-        return "Muy alta desigualdad"
+        return "Baja"
 
 
 # Indicador que utilice la caracteristica "tasa_ingresos"
@@ -135,18 +151,141 @@ def grade_income_rate(row: pd.Series):
     # Verificar datos faltantes
     if pd.isna(row["tasa_ingresos"]):
         return "Sin datos"
-    
-    if row["tasa_ingresos"] < 0.05:
-        return "Baja dependencia económica"
-    elif row["tasa_ingresos"] < 0.15:
-        return "Dependencia económica moderada"
-    elif row["tasa_ingresos"] < 0.25:
-        return "Alta dependencia económica"
+
+    # if row["tasa_ingresos"] < 0.05:
+    #     return "Baja dependencia económica"
+    # elif row["tasa_ingresos"] < 0.15:
+    #     return "Dependencia económica moderada"
+    # elif row["tasa_ingresos"] < 0.25:
+    #     return "Alta dependencia económica"
+    # else:
+    #     return "Muy alta dependencia económica"
+
+    if row["tasa_ingresos"] >= 0.25:
+        return "Muy alta"
+    elif row["tasa_ingresos"] >= 0.15:
+        return "Alta"
+    elif row["tasa_ingresos"] >= 0.05:
+        return "Media"
     else:
-        return "Muy alta dependencia económica"
+        return "Baja"
 
 
-def municipality_profile(data, nombre_municipio):
+# --------------------------
+
+
+def grade_housing_quality(row: pd.Series):
+    """
+    Evalúa la calidad de vivienda basado en materiales y hacinamiento.
+    """
+    if (
+        pd.isna(row["viv"])
+        or pd.isna(row["pct_piso_tierra"])
+        or pd.isna(row["pct_hacinamiento"])
+        # or pd.isna(row["pct_muros_irregulares"])
+    ):
+        return "Sin datos"
+
+    if row["viv"] == 0:
+        return "Sin datos"
+
+    pct_piso_tierra = row["pct_piso_tierra"]
+    hacinamiento = row["pct_hacinamiento"]
+
+    # Score combinado (menos piso tierra y menos hacinamiento = mejor)
+    score = (pct_piso_tierra * 0.5) + (hacinamiento * 0.5)
+
+    if score <= 25:
+        return "Alta"
+    elif score <= 50:
+        return "Media"
+    elif score <= 75:
+        return "Baja"
+    else:
+        return "Muy baja"
+
+
+def grade_food_security(row: pd.Series):
+    """
+    Evalúa la seguridad alimentaria basado en carencias alimentarias.
+    """
+    if pd.isna(row["pob_total"]) or pd.isna(row["pob_car_alimentacion"]):
+        return "Sin datos"
+
+    if row["pob_total"] == 0:
+        return "Sin datos"
+
+    pct_carencia = (row["pob_car_alimentacion"] / row["pob_total"]) * 100
+
+    if pct_carencia <= 10:
+        return "Alta"
+    elif pct_carencia <= 25:
+        return "Media"
+    elif pct_carencia <= 50:
+        return "Baja"
+    else:
+        return "Muy baja"
+
+
+def grade_social_security(row: pd.Series):
+    """
+    Evalúa el acceso a servicios de salud/seguridad social.
+    """
+    if pd.isna(row["pob_total"]) or pd.isna(row["pob_car_salud"]):
+        return "Sin datos"
+
+    if row["pob_total"] == 0:
+        return "Sin datos"
+
+    pct_sin_servicios = (row["pob_car_salud"] / row["pob_total"]) * 100
+
+    if pct_sin_servicios <= 15:
+        return "Alta"
+    elif pct_sin_servicios <= 35:
+        return "Media"
+    elif pct_sin_servicios <= 60:
+        return "Baja"
+    else:
+        return "Muy baja"
+
+
+def generate_indicators(data: pd.DataFrame) -> pd.DataFrame:
+    """
+    Genera un DataFrame con los indicadores categorizados para cada municipio.
+
+    Parameters
+    ----------
+    data : pd.DataFrame
+        DataFrame que contiene los datos municipales.
+
+    Returns
+    -------
+        pd.DataFrame: DataFrame con los indicadores categorizados por municipio.
+    """
+    indicators = []
+
+    for _, row in data.iterrows():
+        profile = {
+            "cve_mun": row["cve_mun"],
+            "municipio": row["municipio"],
+            "grad_margi": row["grad_margi"],
+            "grad_rez_social": row["grad_rez_social"],
+            "conectividad": grade_connectivity(row),
+            "servicios_basicos": grade_basic_services(row),
+            "elementos_salud": grade_health(row),
+            "educacion": grade_education(row),
+            "desigualdad": grade_gini(row),
+            "dependencia_economica": grade_income_rate(row),
+            "calidad_vivienda": grade_housing_quality(row),
+            "seguridad_alimentaria": grade_food_security(row),
+            "seguridad_social": grade_social_security(row),
+        }
+        indicators.append(profile)
+
+    return pd.DataFrame(indicators)
+
+
+def municipality_profile(data, nombre_municipio, print_profile=True):
     """
     Genera un perfil descriptivo del municipio basado en sus indicadores,
     clasificando sus características en categorías cualitativas.
@@ -174,32 +313,73 @@ def municipality_profile(data, nombre_municipio):
 
     # Aplicar funciones de clasificación
     profile = {
+        "cve_mun": mun["cve_mun"],
         "municipio": mun["municipio"],
-        "clave_mun": mun["cve_mun"],
-        "marginacion": mun["grad_margi"],
-        "rezago_social": mun["grad_rez_social"],
+        "grad_margi": mun["grad_margi"],
+        "grad_rez_social": mun["grad_rez_social"],
         "conectividad": grade_connectivity(mun),
         "servicios_basicos": grade_basic_services(mun),
-        "salud": grade_health(mun),
+        "elementos_salud": grade_health(mun),
         "educacion": grade_education(mun),
         "desigualdad": grade_gini(mun),
         "dependencia_economica": grade_income_rate(mun),
+        "calidad_vivienda": grade_housing_quality(mun),
+        "seguridad_alimentaria": grade_food_security(mun),
+        "seguridad_social": grade_social_security(mun),
     }
+
+    if print_profile:
+        # Imprimir perfil
+        header = f" PERFIL DEL MUNICIPIO: {profile['municipio'].upper()} "
+        print(f"\n{header:=^80}")
+
+        print(f"\nRESUMEN DEL PERFIL:")
+        print(f"  • Marginación: {profile['marginacion']}")
+        print(f"  • Rezago social: {profile['rezago_social']}")
+        print(f"  • Conectividad: {profile['conectividad']}")
+        print(f"  • Servicios básicos: {profile['servicios_basicos']}")
+        print(f"  • Elementos de salud: {profile['elementos_salud']}")
+        print(f"  • Educación: {profile['educacion']}")
+        print(f"  • Desigualdad: {profile['desigualdad']}")
+        print(f"  • Dependencia económica: {profile['dependencia_economica']}")
+        print(f"  • Calidad de vivienda: {profile['calidad_vivienda']}")
+        print(f"  • Grado de acceso a alimentos: {profile['seguridad_alimentaria']}")
+        print(
+            f"  • Grado de acceso a servicios de salud: {profile['seguridad_social']}"
+        )
+        print("=" * 80)
+
+    return profile
+
+
+def print_munprofile(data, nombre_municipio):
+    """
+    Imprime el perfil descriptivo del municipio basado en sus indicadores.
+
+    Parameters
+    ----------
+    data : pd.DataFrame
+        DataFrame que contiene los datos municipales.
+    nombre_municipio : str
+        Nombre del municipio a analizar.
+    """
+
+    profile = data[data["municipio"] == nombre_municipio].iloc[0]
 
     # Imprimir perfil
     header = f" PERFIL DEL MUNICIPIO: {profile['municipio'].upper()} "
     print(f"\n{header:=^80}")
 
     print(f"\nRESUMEN DEL PERFIL:")
-    print(f"  • Marginación: {profile['marginacion']}")
-    print(f"  • Rezago social: {profile['rezago_social']}")
+    print(f"  • Marginación: {profile['grad_margi']}")
+    print(f"  • Rezago social: {profile['grad_rez_social']}")
     print(f"  • Conectividad: {profile['conectividad']}")
     print(f"  • Servicios básicos: {profile['servicios_basicos']}")
-    print(f"  • Salud: {profile['salud']}")
+    print(f"  • Elementos de salud: {profile['elementos_salud']}")
     print(f"  • Educación: {profile['educacion']}")
     print(f"  • Desigualdad: {profile['desigualdad']}")
     print(f"  • Dependencia económica: {profile['dependencia_economica']}")
-
+    print(f"  • Calidad de vivienda: {profile['calidad_vivienda']}")
+    print(f"  • Grado de acceso a alimentos: {profile['seguridad_alimentaria']}")
+    print(f"  • Grado de acceso a servicios de salud: {profile['seguridad_social']}")
     print("=" * 80)
-
-    return profile

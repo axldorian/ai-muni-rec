@@ -1,571 +1,571 @@
-cve_mun,municipio,municipio_norm,grad_margi,grad_rez_social,conectividad,servicios_basicos,elementos_salud,educacion,desigualdad,dependencia_economica,calidad_vivienda,seguridad_alimentaria,seguridad_social
-20001,Abejones,abejones,Alto,Medio,Bajo,Bajo,Alto,Alto,Medio,Alto,Medio,Bajo,Alto
-20002,Acatlán de Pérez Figueroa,acatlan_de_perez_figueroa,Medio,Bajo,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio
-20003,Asunción Cacalotepec,asuncion_cacalotepec,Alto,Muy alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Alto,Medio
-20004,Asunción Cuyotepeji,asuncion_cuyotepeji,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20005,Asunción Ixtaltepec,asuncion_ixtaltepec,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20006,Asunción Nochixtlán,asuncion_nochixtlan,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20007,Asunción Ocotlán,asuncion_ocotlan,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Alto,Bajo,Bajo
-20008,Asunción Tlacolulita,asuncion_tlacolulita,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20009,Ayotzintepec,ayotzintepec,Alto,Medio,Bajo,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Muy bajo,Alto
-20010,El Barrio de la Soledad,el_barrio_de_la_soledad,Bajo,Muy bajo,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20011,Calihualá,calihuala,Alto,Medio,Muy bajo,Muy bajo,,Alto,Alto,Alto,Medio,Muy bajo,Medio
-20012,Candelaria Loxicha,candelaria_loxicha,Muy alto,Alto,Bajo,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
-20013,Ciénega de Zimatlán,cienega_de_zimatlan,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Alto,Medio,Alto,Medio
-20014,Ciudad Ixtepec,ciudad_ixtepec,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
-20015,Coatecas Altas,coatecas_altas,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Medio
-20016,Coicoyán de las Flores,coicoyan_de_las_flores,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Alto,Medio,Medio,Bajo,Medio
-20017,La Compañía,la_compania,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20018,Concepción Buenavista,concepcion_buenavista,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20019,Concepción Pápalo,concepcion_papalo,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20020,Constancia del Rosario,constancia_del_rosario,Alto,Medio,Bajo,Muy bajo,,Alto,Alto,Medio,Medio,Bajo,Medio
-20021,Cosolapa,cosolapa,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Bajo
-20022,Cosoltepec,cosoltepec,Medio,Bajo,Muy bajo,Muy bajo,,Bajo,Alto,Alto,Medio,Bajo,Medio
-20023,Cuilápam de Guerrero,cuilapam_de_guerrero,Alto,Medio,Medio,Muy bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20024,Cuyamecalco Villa de Zaragoza,cuyamecalco_villa_de_zaragoza,Alto,Alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Bajo,Medio
-20025,Chahuites,chahuites,Medio,Bajo,Medio,Muy bajo,Bajo,Medio,Medio,Alto,Bajo,Bajo,Bajo
-20026,Chalcatongo de Hidalgo,chalcatongo_de_hidalgo,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
-20027,Chiquihuitlán de Benito Juárez,chiquihuitlan_de_benito_juarez,Alto,Alto,Muy bajo,Bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20028,Heroica Ciudad de Ejutla de Crespo,heroica_ciudad_de_ejutla_de_crespo,Alto,Medio,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo
-20029,Eloxochitlán de Flores Magón,eloxochitlan_de_flores_magon,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Medio,Alto
-20030,El Espinal,el_espinal,Muy bajo,Muy bajo,Medio,Alto,Medio,Bajo,Medio,Medio,Medio,Medio,Medio
-20031,Tamazulápam del Espíritu Santo,tamazulapam_del_espiritu_santo,Alto,Alto,Bajo,Bajo,Alto,Alto,Alto,Medio,Medio,Medio,Medio
-20032,Fresnillo de Trujano,fresnillo_de_trujano,Alto,Medio,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20033,Guadalupe Etla,guadalupe_etla,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Bajo,Bajo
-20034,Guadalupe de Ramírez,guadalupe_de_ramirez,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20035,Guelatao de Juárez,guelatao_de_juarez,Muy bajo,Muy bajo,Medio,Alto,Alto,Bajo,Alto,Medio,Medio,Alto,Alto
-20036,Guevea de Humboldt,guevea_de_humboldt,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Muy bajo,Alto
-20037,Mesones Hidalgo,mesones_hidalgo,Alto,Alto,Bajo,Muy bajo,Bajo,Alto,Alto,Medio,Medio,Bajo,Medio
-20038,Villa Hidalgo,villa_hidalgo,Alto,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Medio
-20039,Heroica Ciudad de Huajuapan de León,heroica_ciudad_de_huajuapan_de_leon,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20040,Huautepec,huautepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Bajo,Muy bajo,Medio
-20041,Huautla de Jiménez,huautla_de_jimenez,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Bajo,Medio
-20042,Ixtlán de Juárez,ixtlan_de_juarez,Medio,Bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Alto,Medio
-20043,Juchitán de Zaragoza,juchitan_de_zaragoza,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
-20044,Loma Bonita,loma_bonita,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20045,Magdalena Apasco,magdalena_apasco,Muy bajo,Muy bajo,Medio,Alto,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
-20046,Magdalena Jaltepec,magdalena_jaltepec,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
-20047,Santa Magdalena Jicotlán,santa_magdalena_jicotlan,Bajo,Bajo,Bajo,Bajo,,Medio,Medio,Medio,Medio,Medio,Bajo
-20048,Magdalena Mixtepec,magdalena_mixtepec,Alto,Muy alto,Bajo,Muy bajo,Medio,Medio,Medio,,Medio,Medio,Medio
-20049,Magdalena Ocotlán,magdalena_ocotlan,Alto,Medio,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Bajo
-20050,Magdalena Peñasco,magdalena_penasco,Alto,Alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Alto
-20051,Magdalena Teitipac,magdalena_teitipac,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Muy alto,Medio,Medio,Bajo
-20052,Magdalena Tequisistlán,magdalena_tequisistlan,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20053,Magdalena Tlacotepec,magdalena_tlacotepec,Bajo,Bajo,Medio,Bajo,,Medio,Alto,Medio,Medio,Alto,Medio
-20054,Magdalena Zahuatlán,magdalena_zahuatlan,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
-20055,Mariscala de Juárez,mariscala_de_juarez,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio
-20056,Mártires de Tacubaya,martires_de_tacubaya,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Bajo,Medio
-20057,Matías Romero Avendaño,matias_romero_avendano,Medio,Bajo,Medio,Bajo,Medio,Medio,,Medio,Medio,Bajo,Bajo
-20058,Mazatlán Villa de Flores,mazatlan_villa_de_flores,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20059,Miahuatlán de Porfirio Díaz,miahuatlan_de_porfirio_diaz,Medio,Medio,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Muy bajo
-20060,Mixistlán de la Reforma,mixistlan_de_la_reforma,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
-20061,Monjas,monjas,Muy alto,Alto,Bajo,Muy bajo,Alto,Alto,Medio,Alto,Medio,Medio,Medio
-20062,Natividad,natividad,Bajo,Bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Alto,Medio
-20063,Nazareno Etla,nazareno_etla,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Medio
-20064,Nejapa de Madero,nejapa_de_madero,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20065,Ixpantepec Nieves,ixpantepec_nieves,Alto,Medio,Bajo,Bajo,,Alto,Medio,Alto,Medio,Bajo,Bajo
-20066,Santiago Niltepec,santiago_niltepec,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20067,Oaxaca de Juárez,oaxaca_de_juarez,Muy bajo,Muy bajo,Alto,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20068,Ocotlán de Morelos,ocotlan_de_morelos,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
-20069,La Pe,la_pe,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
-20070,Pinotepa de Don Luis,pinotepa_de_don_luis,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
-20071,Pluma Hidalgo,pluma_hidalgo,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20072,San José del Progreso,san_jose_del_progreso,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20073,Putla Villa de Guerrero,putla_villa_de_guerrero,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Bajo
-20074,Santa Catarina Quioquitani,santa_catarina_quioquitani,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Medio,Muy alto,Medio,Medio,Alto
-20075,Reforma de Pineda,reforma_de_pineda,Bajo,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20076,La Reforma,la_reforma,Medio,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Medio
-20077,Reyes Etla,reyes_etla,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Alto,Medio,Medio,Medio,Medio
-20078,Rojas de Cuauhtémoc,rojas_de_cuauhtemoc,Bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Medio
-20079,Salina Cruz,salina_cruz,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
-20080,San Agustín Amatengo,san_agustin_amatengo,Alto,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20081,San Agustín Atenango,san_agustin_atenango,Alto,Medio,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Bajo,Medio
-20082,San Agustín Chayuco,san_agustin_chayuco,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20083,San Agustín de las Juntas,san_agustin_de_las_juntas,Muy bajo,Muy bajo,Medio,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20084,San Agustín Etla,san_agustin_etla,Muy bajo,Muy bajo,Alto,Alto,,Bajo,Medio,Alto,Medio,Medio,Medio
-20085,San Agustín Loxicha,san_agustin_loxicha,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20086,San Agustín Tlacotepec,san_agustin_tlacotepec,Alto,Alto,Muy bajo,Muy bajo,,Medio,Alto,Alto,Medio,Medio,Medio
-20087,San Agustín Yatareni,san_agustin_yatareni,Alto,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Alto,Muy bajo
-20088,San Andrés Cabecera Nueva,san_andres_cabecera_nueva,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20089,San Andrés Dinicuiti,san_andres_dinicuiti,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Bajo,Medio,Medio
-20090,San Andrés Huaxpaltepec,san_andres_huaxpaltepec,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20091,San Andrés Huayápam,san_andres_huayapam,Muy bajo,Muy bajo,Alto,Alto,Medio,Bajo,Alto,Medio,Medio,Alto,Medio
-20092,San Andrés Ixtlahuaca,san_andres_ixtlahuaca,Medio,Medio,Medio,Muy bajo,,Medio,Alto,Medio,Medio,Medio,Bajo
-20093,San Andrés Lagunas,san_andres_lagunas,Medio,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20094,San Andrés Nuxiño,san_andres_nuxino,Medio,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Muy alto,Medio,Medio,Alto
-20095,San Andrés Paxtlán,san_andres_paxtlan,Alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Muy alto,Medio,Bajo,Medio
-20096,San Andrés Sinaxtla,san_andres_sinaxtla,Bajo,Bajo,Medio,Medio,,Bajo,Medio,Alto,Medio,Medio,Medio
-20097,San Andrés Solaga,san_andres_solaga,Medio,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Medio
-20098,San Andrés Teotilálpam,san_andres_teotilalpam,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20099,San Andrés Tepetlapa,san_andres_tepetlapa,Muy alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,,Medio,Bajo,Alto
-20100,San Andrés Yaá,san_andres_yaa,Alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Medio
-20101,San Andrés Zabache,san_andres_zabache,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Medio
-20102,San Andrés Zautla,san_andres_zautla,Medio,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
-20103,San Antonino Castillo Velasco,san_antonino_castillo_velasco,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Bajo
-20104,San Antonino el Alto,san_antonino_el_alto,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20105,San Antonino Monte Verde,san_antonino_monte_verde,Medio,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Medio
-20106,San Antonio Acutla,san_antonio_acutla,Medio,Medio,Bajo,Medio,,Medio,Medio,Alto,Medio,Medio,Alto
-20107,San Antonio de la Cal,san_antonio_de_la_cal,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
-20108,San Antonio Huitepec,san_antonio_huitepec,Alto,Medio,Muy bajo,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Bajo,Medio
-20109,San Antonio Nanahuatípam,san_antonio_nanahuatipam,Medio,Bajo,Medio,Bajo,Alto,Bajo,Alto,Medio,Medio,Medio,Alto
-20110,San Antonio Sinicahua,san_antonio_sinicahua,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Bajo
-20111,San Antonio Tepetlapa,san_antonio_tepetlapa,Muy alto,Alto,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Medio
-20112,San Baltazar Chichicápam,san_baltazar_chichicapam,Alto,Medio,Bajo,Muy bajo,Medio,Alto,Alto,Medio,Medio,Medio,Bajo
-20113,San Baltazar Loxicha,san_baltazar_loxicha,Medio,Medio,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20114,San Baltazar Yatzachi el Bajo,san_baltazar_yatzachi_el_bajo,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
-20115,San Bartolo Coyotepec,san_bartolo_coyotepec,Bajo,Muy bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Medio,Bajo
-20116,San Bartolomé Ayautla,san_bartolome_ayautla,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Bajo,Muy bajo,Medio
-20117,San Bartolomé Loxicha,san_bartolome_loxicha,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Bajo,Bajo,Alto
-20118,San Bartolomé Quialana,san_bartolome_quialana,Alto,Medio,Medio,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Bajo
-20119,San Bartolomé Yucuañe,san_bartolome_yucuane,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20120,San Bartolomé Zoogocho,san_bartolome_zoogocho,Medio,Medio,Medio,Muy bajo,,Medio,Alto,Medio,Medio,Medio,Bajo
-20121,San Bartolo Soyaltepec,san_bartolo_soyaltepec,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20122,San Bartolo Yautepec,san_bartolo_yautepec,Medio,Bajo,Muy bajo,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
-20123,San Bernardo Mixtepec,san_bernardo_mixtepec,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Medio,Medio
-20124,San Blas Atempa,san_blas_atempa,Muy alto,Alto,Bajo,Bajo,Medio,Muy alto,Medio,Alto,Medio,Bajo,Medio
-20125,San Carlos Yautepec,san_carlos_yautepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20126,San Cristóbal Amatlán,san_cristobal_amatlan,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
-20127,San Cristóbal Amoltepec,san_cristobal_amoltepec,Alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20128,San Cristóbal Lachirioag,san_cristobal_lachirioag,Medio,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Alto,Bajo
-20129,San Cristóbal Suchixtlahuaca,san_cristobal_suchixtlahuaca,Bajo,Muy bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
-20130,San Dionisio del Mar,san_dionisio_del_mar,Muy alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20131,San Dionisio Ocotepec,san_dionisio_ocotepec,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Bajo
-20132,San Dionisio Ocotlán,san_dionisio_ocotlan,Medio,Bajo,Medio,Bajo,,Bajo,Alto,Medio,Medio,Medio,Medio
-20133,San Esteban Atatlahuca,san_esteban_atatlahuca,Alto,Muy alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Alto
-20134,San Felipe Jalapa de Díaz,san_felipe_jalapa_de_diaz,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Alto,Medio,Bajo,Muy bajo,Bajo
-20135,San Felipe Tejalápam,san_felipe_tejalapam,Medio,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
-20136,San Felipe Usila,san_felipe_usila,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Bajo
-20137,San Francisco Cahuacuá,san_francisco_cahuacua,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Alto
-20138,San Francisco Cajonos,san_francisco_cajonos,Medio,Medio,Bajo,Medio,,Medio,Medio,Alto,Medio,Medio,Medio
-20139,San Francisco Chapulapa,san_francisco_chapulapa,Alto,Alto,Bajo,Bajo,Alto,Alto,Medio,Medio,Medio,Muy bajo,Alto
-20140,San Francisco Chindúa,san_francisco_chindua,Medio,Medio,Bajo,Muy bajo,Medio,Medio,,Alto,Medio,Bajo,Medio
-20141,San Francisco del Mar,san_francisco_del_mar,Alto,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Muy bajo,Medio
-20142,San Francisco Huehuetlán,san_francisco_huehuetlan,Alto,Alto,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Medio,Alto
-20143,San Francisco Ixhuatán,san_francisco_ixhuatan,Bajo,Bajo,Medio,Bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Alto
-20144,San Francisco Jaltepetongo,san_francisco_jaltepetongo,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20145,San Francisco Lachigoló,san_francisco_lachigolo,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
-20146,San Francisco Logueche,san_francisco_logueche,Alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,,Medio,Medio,Alto
-20147,San Francisco Nuxaño,san_francisco_nuxano,Medio,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20148,San Francisco Ozolotepec,san_francisco_ozolotepec,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
-20149,San Francisco Sola,san_francisco_sola,Alto,Alto,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo
-20150,San Francisco Telixtlahuaca,san_francisco_telixtlahuaca,Muy bajo,Bajo,Medio,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
-20151,San Francisco Teopan,san_francisco_teopan,Alto,Medio,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Medio,Muy bajo,Alto
-20152,San Francisco Tlapancingo,san_francisco_tlapancingo,Muy alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Alto
-20153,San Gabriel Mixtepec,san_gabriel_mixtepec,Medio,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Medio,Alto
-20154,San Ildefonso Amatlán,san_ildefonso_amatlan,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20155,San Ildefonso Sola,san_ildefonso_sola,Muy alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20156,San Ildefonso Villa Alto,san_ildefonso_villa_alto,Medio,Bajo,Bajo,Bajo,Bajo,Medio,Alto,Alto,Medio,Medio,Bajo
-20157,San Jacinto Amilpas,san_jacinto_amilpas,Muy bajo,Muy bajo,Alto,Alto,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20158,San Jacinto Tlacotepec,san_jacinto_tlacotepec,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
-20159,San Jerónimo Coatlán,san_jeronimo_coatlan,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio
-20160,San Jerónimo Silacayoapilla,san_jeronimo_silacayoapilla,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20161,San Jerónimo Sosola,san_jeronimo_sosola,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20162,San Jerónimo Taviche,san_jeronimo_taviche,Muy alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Muy alto,Bajo,Bajo,Medio
-20163,San Jerónimo Tecóatl,san_jeronimo_tecoatl,Alto,Alto,Bajo,Muy bajo,Alto,Alto,Alto,Medio,Medio,Bajo,Medio
-20164,San Jorge Nuchita,san_jorge_nuchita,Alto,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Medio,Muy bajo,Medio
-20165,San José Ayuquila,san_jose_ayuquila,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
-20166,San José Chiltepec,san_jose_chiltepec,Medio,Bajo,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Muy bajo,Bajo
-20167,San José del Peñasco,san_jose_del_penasco,Alto,Alto,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Medio
-20168,San José Estancia Grande,san_jose_estancia_grande,Alto,Medio,Medio,Muy bajo,,Alto,Medio,Medio,Bajo,Bajo,Medio
-20169,San José Independencia,san_jose_independencia,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20170,San José Lachiguiri,san_jose_lachiguiri,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20171,San José Tenango,san_jose_tenango,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Medio
-20172,San Juan Achiutla,san_juan_achiutla,Bajo,Bajo,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20173,San Juan Atepec,san_juan_atepec,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
-20174,Ánimas Trujano,animas_trujano,Muy bajo,Muy bajo,Medio,Alto,,Bajo,Alto,Alto,Medio,Medio,Bajo
-20175,San Juan Bautista Atatlahuca,san_juan_bautista_atatlahuca,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20176,San Juan Bautista Coixtlahuaca,san_juan_bautista_coixtlahuaca,Alto,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio
-20177,San Juan Bautista Cuicatlán,san_juan_bautista_cuicatlan,Bajo,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio,Medio
-20178,San Juan Bautista Guelache,san_juan_bautista_guelache,Bajo,Muy bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
-20179,San Juan Bautista Jayacatlán,san_juan_bautista_jayacatlan,Medio,Bajo,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Alto,Medio
-20180,San Juan Bautista Lo de Soto,san_juan_bautista_lo_de_soto,Medio,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Bajo,Bajo,Medio
-20181,San Juan Bautista Suchitepec,san_juan_bautista_suchitepec,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
-20182,San Juan Bautista Tlacoatzintepec,san_juan_bautista_tlacoatzintepec,Alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Medio,Medio,Bajo,Medio
-20183,San Juan Bautista Tlachichilco,san_juan_bautista_tlachichilco,Alto,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20184,San Juan Bautista Tuxtepec,san_juan_bautista_tuxtepec,Bajo,Bajo,Medio,Bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Muy bajo
-20185,San Juan Cacahuatepec,san_juan_cacahuatepec,Medio,Bajo,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Bajo,Bajo,Medio
-20186,San Juan Cieneguilla,san_juan_cieneguilla,Medio,Bajo,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Alto
-20187,San Juan Coatzóspam,san_juan_coatzospam,Alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20188,San Juan Colorado,san_juan_colorado,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Muy bajo,Medio
-20189,San Juan Comaltepec,san_juan_comaltepec,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Alto
-20190,San Juan Cotzocón,san_juan_cotzocon,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
-20191,San Juan Chicomezúchil,san_juan_chicomezuchil,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
-20192,San Juan Chilateca,san_juan_chilateca,Muy bajo,Muy bajo,Medio,Medio,,Bajo,Alto,Medio,Medio,Alto,Bajo
-20193,San Juan del Estado,san_juan_del_estado,Bajo,Bajo,Medio,Medio,,Bajo,Medio,Alto,Medio,Medio,Bajo
-20194,San Juan del Río,san_juan_del_rio,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Bajo
-20195,San Juan Diuxi,san_juan_diuxi,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20196,San Juan Evangelista Analco,san_juan_evangelista_analco,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Alto,Medio
-20197,San Juan Guelavía,san_juan_guelavia,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20198,San Juan Guichicovi,san_juan_guichicovi,Alto,Medio,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Medio
-20199,San Juan Ihualtepec,san_juan_ihualtepec,Alto,Medio,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20200,San Juan Juquila Mixes,san_juan_juquila_mixes,Alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio
-20201,San Juan Juquila Vijanos,san_juan_juquila_vijanos,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Alto,Medio
-20202,San Juan Lachao,san_juan_lachao,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Alto
-20203,San Juan Lachigalla,san_juan_lachigalla,Muy alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20204,San Juan Lajarcia,san_juan_lajarcia,Medio,Bajo,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20205,San Juan Lalana,san_juan_lalana,Muy alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Muy bajo,Bajo
-20206,San Juan de los Cués,san_juan_de_los_cues,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Medio,Medio
-20207,San Juan Mazatlán,san_juan_mazatlan,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20208,San Juan Mixtepec,san_juan_mixtepec,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Bajo
-20209,San Juan Mixtepec,san_juan_mixtepec,Alto,Alto,Muy bajo,Medio,Alto,Alto,Medio,Alto,Medio,Alto,Medio
-20210,San Juan Ñumí,san_juan_numi,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20211,San Juan Ozolotepec,san_juan_ozolotepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
-20212,San Juan Petlapa,san_juan_petlapa,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Muy bajo,Medio
-20213,San Juan Quiahije,san_juan_quiahije,Alto,Alto,Medio,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Alto
-20214,San Juan Quiotepec,san_juan_quiotepec,Alto,Medio,Bajo,Bajo,,Alto,Medio,Alto,Medio,Medio,Alto
-20215,San Juan Sayultepec,san_juan_sayultepec,Bajo,Bajo,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
-20216,San Juan Tabaá,san_juan_tabaa,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Alto,Medio,Alto,Medio
-20217,San Juan Tamazola,san_juan_tamazola,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20218,San Juan Teita,san_juan_teita,Alto,Alto,Muy bajo,Muy bajo,,Medio,Medio,,Medio,Bajo,Alto
-20219,San Juan Teitipac,san_juan_teitipac,Alto,Medio,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20220,San Juan Tepeuxila,san_juan_tepeuxila,Medio,Medio,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
-20221,San Juan Teposcolula,san_juan_teposcolula,Medio,Medio,Bajo,Bajo,,Medio,Medio,Medio,Medio,Medio,Medio
-20222,San Juan Yaeé,san_juan_yaee,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Alto,Alto
-20223,San Juan Yatzona,san_juan_yatzona,Bajo,Bajo,Bajo,Medio,Alto,Medio,Medio,Alto,Medio,Bajo,Medio
-20224,San Juan Yucuita,san_juan_yucuita,Medio,Bajo,Bajo,Bajo,Alto,Bajo,Alto,Medio,Medio,Alto,Medio
-20225,San Lorenzo,san_lorenzo,Muy alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Medio
-20226,San Lorenzo Albarradas,san_lorenzo_albarradas,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20227,San Lorenzo Cacaotepec,san_lorenzo_cacaotepec,Muy bajo,Muy bajo,Medio,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Bajo
-20228,San Lorenzo Cuaunecuiltitla,san_lorenzo_cuaunecuiltitla,Alto,Alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Alto,Bajo,Medio,Alto
-20229,San Lorenzo Texmelúcan,san_lorenzo_texmelucan,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Alto
-20230,San Lorenzo Victoria,san_lorenzo_victoria,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Bajo,Bajo,Bajo
-20231,San Lucas Camotlán,san_lucas_camotlan,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Alto,Medio,Medio,Alto,Alto
-20232,San Lucas Ojitlán,san_lucas_ojitlan,Muy alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Muy bajo,Medio
-20233,San Lucas Quiaviní,san_lucas_quiavini,Alto,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Medio,Alto,Bajo
-20234,San Lucas Zoquiápam,san_lucas_zoquiapam,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20235,San Luis Amatlán,san_luis_amatlan,Alto,Medio,Bajo,Muy bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio
-20236,San Marcial Ozolotepec,san_marcial_ozolotepec,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
-20237,San Marcos Arteaga,san_marcos_arteaga,Bajo,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20238,San Martín de los Cansecos,san_martin_de_los_cansecos,Medio,Medio,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Bajo
-20239,San Martín Huamelúlpam,san_martin_huamelulpam,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20240,San Martín Itunyoso,san_martin_itunyoso,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,,Medio,Muy bajo,Medio
-20241,San Martín Lachilá,san_martin_lachila,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20242,San Martín Peras,san_martin_peras,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Bajo,Medio
-20243,San Martín Tilcajete,san_martin_tilcajete,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20244,San Martín Toxpalan,san_martin_toxpalan,Alto,Medio,Medio,Muy bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Medio
-20245,San Martín Zacatepec,san_martin_zacatepec,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20246,San Mateo Cajonos,san_mateo_cajonos,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20247,Capulálpam de Méndez,capulalpam_de_mendez,Muy bajo,Muy bajo,Medio,Alto,Alto,Bajo,Alto,Alto,Medio,Alto,Medio
-20248,San Mateo del Mar,san_mateo_del_mar,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20249,San Mateo Yoloxochitlán,san_mateo_yoloxochitlan,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo,Medio
-20250,San Mateo Etlatongo,san_mateo_etlatongo,Medio,Medio,Medio,Muy bajo,Medio,Bajo,Medio,Medio,Medio,Bajo,Alto
-20251,San Mateo Nejápam,san_mateo_nejapam,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,,Bajo,Bajo,Alto
-20252,San Mateo Peñasco,san_mateo_penasco,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
-20253,San Mateo Piñas,san_mateo_pinas,Muy alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Bajo
-20254,San Mateo Río Hondo,san_mateo_rio_hondo,Alto,Alto,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20255,San Mateo Sindihui,san_mateo_sindihui,Alto,Medio,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20256,San Mateo Tlapiltepec,san_mateo_tlapiltepec,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20257,San Melchor Betaza,san_melchor_betaza,Alto,Alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Muy alto,Medio,Bajo,Medio
-20258,San Miguel Achiutla,san_miguel_achiutla,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Medio
-20259,San Miguel Ahuehuetitlán,san_miguel_ahuehuetitlan,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Bajo,Bajo,Alto
-20260,San Miguel Aloápam,san_miguel_aloapam,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20261,San Miguel Amatitlán,san_miguel_amatitlan,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Bajo,Bajo,Alto
-20262,San Miguel Amatlán,san_miguel_amatlan,Bajo,Bajo,Bajo,Medio,Alto,Bajo,Medio,Alto,Medio,Alto,Medio
-20263,San Miguel Coatlán,san_miguel_coatlan,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Alto
-20264,San Miguel Chicahua,san_miguel_chicahua,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Bajo,Alto
-20265,San Miguel Chimalapa,san_miguel_chimalapa,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20266,San Miguel del Puerto,san_miguel_del_puerto,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Medio,Medio
-20267,San Miguel del Río,san_miguel_del_rio,Bajo,Bajo,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Alto,Bajo
-20268,San Miguel Ejutla,san_miguel_ejutla,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Bajo
-20269,San Miguel el Grande,san_miguel_el_grande,Medio,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Medio,Alto
-20270,San Miguel Huautla,san_miguel_huautla,Muy alto,Muy alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
-20271,San Miguel Mixtepec,san_miguel_mixtepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Muy bajo,Medio
-20272,San Miguel Panixtlahuaca,san_miguel_panixtlahuaca,Alto,Medio,Medio,Muy bajo,,Alto,Medio,Medio,Medio,Medio,Medio
-20273,San Miguel Peras,san_miguel_peras,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20274,San Miguel Piedras,san_miguel_piedras,Alto,Muy alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20275,San Miguel Quetzaltepec,san_miguel_quetzaltepec,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Medio
-20276,San Miguel Santa Flor,san_miguel_santa_flor,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
-20277,Villa Sola de Vega,villa_sola_de_vega,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Muy bajo
-20278,San Miguel Soyaltepec,san_miguel_soyaltepec,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Muy bajo,Medio
-20279,San Miguel Suchixtepec,san_miguel_suchixtepec,Medio,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Alto,Medio
-20280,Villa Talea de Castro,villa_talea_de_castro,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
-20281,San Miguel Tecomatlán,san_miguel_tecomatlan,Bajo,Bajo,Medio,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20282,San Miguel Tenango,san_miguel_tenango,Alto,Medio,Bajo,Medio,,Medio,Medio,Alto,Medio,Bajo,Medio
-20283,San Miguel Tequixtepec,san_miguel_tequixtepec,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
-20284,San Miguel Tilquiápam,san_miguel_tilquiapam,Muy alto,Muy alto,Medio,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Bajo
-20285,San Miguel Tlacamama,san_miguel_tlacamama,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Medio,Bajo,Medio,Medio
-20286,San Miguel Tlacotepec,san_miguel_tlacotepec,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Bajo
-20287,San Miguel Tulancingo,san_miguel_tulancingo,Medio,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Alto,Medio
-20288,San Miguel Yotao,san_miguel_yotao,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,,Medio,Muy bajo,Alto
-20289,San Nicolás,san_nicolas,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20290,San Nicolás Hidalgo,san_nicolas_hidalgo,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20291,San Pablo Coatlán,san_pablo_coatlan,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
-20292,San Pablo Cuatro Venados,san_pablo_cuatro_venados,Muy alto,Alto,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
-20293,San Pablo Etla,san_pablo_etla,Muy bajo,Muy bajo,Medio,Medio,,Bajo,Medio,Medio,Alto,Medio,Bajo
-20294,San Pablo Huitzo,san_pablo_huitzo,Muy bajo,Bajo,Medio,Bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
-20295,San Pablo Huixtepec,san_pablo_huixtepec,Muy bajo,Bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20296,San Pablo Macuiltianguis,san_pablo_macuiltianguis,Medio,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio,Alto
-20297,San Pablo Tijaltepec,san_pablo_tijaltepec,Muy alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
-20298,San Pablo Villa de Mitla,san_pablo_villa_de_mitla,Medio,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
-20299,San Pablo Yaganiza,san_pablo_yaganiza,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20300,San Pedro Amuzgos,san_pedro_amuzgos,Alto,Alto,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Bajo,Medio
-20301,San Pedro Apóstol,san_pedro_apostol,Medio,Bajo,Medio,Bajo,Alto,Medio,Alto,Alto,Medio,Medio,Medio
-20302,San Pedro Atoyac,san_pedro_atoyac,Muy alto,Alto,Bajo,Muy bajo,,Alto,Medio,Medio,Medio,Bajo,Alto
-20303,San Pedro Cajonos,san_pedro_cajonos,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
-20304,San Pedro Coxcaltepec Cántaros,san_pedro_coxcaltepec_cantaros,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
-20305,San Pedro Comitancillo,san_pedro_comitancillo,Bajo,Muy bajo,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Bajo,Alto
-20306,San Pedro el Alto,san_pedro_el_alto,Muy alto,Alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
-20307,San Pedro Huamelula,san_pedro_huamelula,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Bajo,Medio
-20308,San Pedro Huilotepec,san_pedro_huilotepec,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Bajo,Bajo,Medio
-20309,San Pedro Ixcatlán,san_pedro_ixcatlan,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Alto,Medio,Medio,Muy bajo,Alto
-20310,San Pedro Ixtlahuaca,san_pedro_ixtlahuaca,Muy alto,Medio,Medio,Muy bajo,Bajo,Bajo,Medio,Alto,Medio,Bajo,Bajo
-20311,San Pedro Jaltepetongo,san_pedro_jaltepetongo,Muy alto,Alto,Bajo,Muy bajo,Alto,Alto,Medio,Alto,Medio,Alto,Alto
-20312,San Pedro Jicayán,san_pedro_jicayan,Muy alto,Alto,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Muy bajo,Bajo
-20313,San Pedro Jocotipac,san_pedro_jocotipac,Alto,Alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
-20314,San Pedro Juchatengo,san_pedro_juchatengo,Medio,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Alto,Bajo
-20315,San Pedro Mártir,san_pedro_martir,Muy alto,Muy alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Alto,Bajo,Bajo
-20316,San Pedro Mártir Quiechapa,san_pedro_martir_quiechapa,Medio,Medio,Bajo,Muy bajo,Alto,Bajo,Medio,Alto,Medio,Muy bajo,Medio
-20317,San Pedro Mártir Yucuxaco,san_pedro_martir_yucuxaco,Alto,Alto,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Bajo
-20318,San Pedro Mixtepec,san_pedro_mixtepec,Bajo,Bajo,Medio,Medio,Alto,Muy alto,Medio,Medio,Bajo,Medio,Bajo
-20319,San Pedro Mixtepec,san_pedro_mixtepec,Alto,Alto,Muy bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
-20320,San Pedro Molinos,san_pedro_molinos,Medio,Medio,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Medio,Medio
-20321,San Pedro Nopala,san_pedro_nopala,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Muy bajo,Medio
-20322,San Pedro Ocopetatillo,san_pedro_ocopetatillo,Muy alto,Muy alto,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Bajo,Alto
-20323,San Pedro Ocotepec,san_pedro_ocotepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Alto
-20324,San Pedro Pochutla,san_pedro_pochutla,Alto,Medio,Medio,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
-20325,San Pedro Quiatoni,san_pedro_quiatoni,Muy alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio
-20326,San Pedro Sochiápam,san_pedro_sochiapam,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Muy bajo,Medio
-20327,San Pedro Tapanatepec,san_pedro_tapanatepec,Medio,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
-20328,San Pedro Taviche,san_pedro_taviche,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20329,San Pedro Teozacoalco,san_pedro_teozacoalco,Alto,Alto,Muy bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
-20330,San Pedro Teutila,san_pedro_teutila,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Muy bajo,Alto
-20331,San Pedro Tidaá,san_pedro_tidaa,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
-20332,San Pedro Topiltepec,san_pedro_topiltepec,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
-20333,San Pedro Totolápam,san_pedro_totolapam,Bajo,Bajo,Medio,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20334,Villa de Tututepec,villa_de_tututepec,Medio,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Bajo,Bajo,Medio
-20335,San Pedro Yaneri,san_pedro_yaneri,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
-20336,San Pedro Yólox,san_pedro_yolox,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Alto,Alto
-20337,San Pedro y San Pablo Ayutla,san_pedro_y_san_pablo_ayutla,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Medio
-20338,Villa de Etla,villa_de_etla,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Bajo
-20339,San Pedro y San Pablo Teposcolula,san_pedro_y_san_pablo_teposcolula,Bajo,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
-20340,San Pedro y San Pablo Tequixtepec,san_pedro_y_san_pablo_tequixtepec,Medio,Medio,Bajo,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20341,San Pedro Yucunama,san_pedro_yucunama,Medio,Medio,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
-20342,San Raymundo Jalpan,san_raymundo_jalpan,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Alto,Medio,Medio
-20343,San Sebastián Abasolo,san_sebastian_abasolo,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Bajo
-20344,San Sebastián Coatlán,san_sebastian_coatlan,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Medio
-20345,San Sebastián Ixcapa,san_sebastian_ixcapa,Alto,Medio,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Bajo,Medio
-20346,San Sebastián Nicananduta,san_sebastian_nicananduta,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Muy bajo,Medio
-20347,San Sebastián Río Hondo,san_sebastian_rio_hondo,Medio,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20348,San Sebastián Tecomaxtlahuaca,san_sebastian_tecomaxtlahuaca,Alto,Medio,Bajo,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
-20349,San Sebastián Teitipac,san_sebastian_teitipac,Alto,Medio,Medio,Muy bajo,,Medio,Medio,Medio,Medio,Medio,Bajo
-20350,San Sebastián Tutla,san_sebastian_tutla,Muy bajo,Muy bajo,Alto,Alto,Alto,Bajo,Medio,Medio,Alto,Alto,Bajo
-20351,San Simón Almolongas,san_simon_almolongas,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
-20352,San Simón Zahuatlán,san_simon_zahuatlan,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Alto,,Bajo,Muy bajo,Muy bajo
-20353,Santa Ana,santa_ana,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20354,Santa Ana Ateixtlahuaca,santa_ana_ateixtlahuaca,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Muy bajo
-20355,Santa Ana Cuauhtémoc,santa_ana_cuauhtemoc,Alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
-20356,Santa Ana del Valle,santa_ana_del_valle,Medio,Medio,Medio,Bajo,Alto,Medio,Alto,Medio,Medio,Medio,Muy bajo
-20357,Santa Ana Tavela,santa_ana_tavela,Medio,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20358,Santa Ana Tlapacoyan,santa_ana_tlapacoyan,Alto,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20359,Santa Ana Yareni,santa_ana_yareni,Alto,Alto,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20360,Santa Ana Zegache,santa_ana_zegache,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20361,Santa Catalina Quierí,santa_catalina_quieri,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Muy alto,Medio,Medio,Alto
-20362,Santa Catarina Cuixtla,santa_catarina_cuixtla,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
-20363,Santa Catarina Ixtepeji,santa_catarina_ixtepeji,Medio,Bajo,Bajo,Bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
-20364,Santa Catarina Juquila,santa_catarina_juquila,Alto,Medio,Bajo,Bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
-20365,Santa Catarina Lachatao,santa_catarina_lachatao,Medio,Medio,Bajo,Bajo,Alto,Bajo,Medio,Alto,Medio,Alto,Medio
-20366,Santa Catarina Loxicha,santa_catarina_loxicha,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20367,Santa Catarina Mechoacán,santa_catarina_mechoacan,Muy alto,Alto,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Muy bajo,Medio
-20368,Santa Catarina Minas,santa_catarina_minas,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20369,Santa Catarina Quiané,santa_catarina_quiane,Medio,Bajo,Medio,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Alto
-20370,Santa Catarina Tayata,santa_catarina_tayata,Bajo,Medio,Bajo,Muy bajo,,Bajo,Alto,Alto,Medio,Medio,Medio
-20371,Santa Catarina Ticuá,santa_catarina_ticua,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
-20372,Santa Catarina Yosonotú,santa_catarina_yosonotu,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
-20373,Santa Catarina Zapoquila,santa_catarina_zapoquila,Alto,Medio,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
-20374,Santa Cruz Acatepec,santa_cruz_acatepec,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Alto
-20375,Santa Cruz Amilpas,santa_cruz_amilpas,Muy bajo,Muy bajo,Medio,Alto,Medio,Bajo,Medio,Alto,Medio,Alto,Medio
-20376,Santa Cruz de Bravo,santa_cruz_de_bravo,Alto,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Alto,Alto
-20377,Santa Cruz Itundujia,santa_cruz_itundujia,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
-20378,Santa Cruz Mixtepec,santa_cruz_mixtepec,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Medio
-20379,Santa Cruz Nundaco,santa_cruz_nundaco,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
-20380,Santa Cruz Papalutla,santa_cruz_papalutla,Medio,Medio,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20381,Santa Cruz Tacache de Mina,santa_cruz_tacache_de_mina,Medio,Bajo,Bajo,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20382,Santa Cruz Tacahua,santa_cruz_tacahua,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
-20383,Santa Cruz Tayata,santa_cruz_tayata,Medio,Medio,Muy bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Bajo,Alto
-20384,Santa Cruz Xitla,santa_cruz_xitla,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
-20385,Santa Cruz Xoxocotlán,santa_cruz_xoxocotlan,Muy bajo,Bajo,Alto,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20386,Santa Cruz Zenzontepec,santa_cruz_zenzontepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20387,Santa Gertrudis,santa_gertrudis,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
-20388,Santa Inés del Monte,santa_ines_del_monte,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Muy alto,Medio,Medio,Medio
-20389,Santa Inés Yatzeche,santa_ines_yatzeche,Alto,Alto,Bajo,Bajo,Alto,Alto,Medio,Alto,Medio,Alto,Alto
-20390,Santa Lucía del Camino,santa_lucia_del_camino,Muy bajo,Muy bajo,Alto,Alto,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo
-20391,Santa Lucía Miahuatlán,santa_lucia_miahuatlan,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Medio
-20392,Santa Lucía Monteverde,santa_lucia_monteverde,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Alto
-20393,Santa Lucía Ocotlán,santa_lucia_ocotlan,Alto,Alto,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
-20394,Santa María Alotepec,santa_maria_alotepec,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Alto,Medio
-20395,Santa María Apazco,santa_maria_apazco,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Medio,Medio
-20396,Santa María la Asunción,santa_maria_la_asuncion,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Muy alto,Medio,Medio,Medio,Muy bajo,Alto
-20397,Heroica Ciudad de Tlaxiaco,heroica_ciudad_de_tlaxiaco,Medio,Bajo,Medio,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Bajo
-20398,Ayoquezco de Aldama,ayoquezco_de_aldama,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio
-20399,Santa María Atzompa,santa_maria_atzompa,Bajo,Bajo,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20400,Santa María Camotlán,santa_maria_camotlan,Medio,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Medio
-20401,Santa María Colotepec,santa_maria_colotepec,Medio,Bajo,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Bajo,Bajo
-20402,Santa María Cortijo,santa_maria_cortijo,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Muy bajo,Medio
-20403,Santa María Coyotepec,santa_maria_coyotepec,Bajo,Bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
-20404,Santa María Chachoápam,santa_maria_chachoapam,Bajo,Bajo,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
-20405,Villa de Chilapa de Díaz,villa_de_chilapa_de_diaz,Medio,Bajo,Bajo,Bajo,Medio,Medio,Alto,Alto,Medio,Medio,Medio
-20406,Santa María Chilchotla,santa_maria_chilchotla,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Medio
-20407,Santa María Chimalapa,santa_maria_chimalapa,Alto,Alto,Bajo,Muy bajo,Bajo,Alto,,Alto,Medio,Bajo,Medio
-20408,Santa María del Rosario,santa_maria_del_rosario,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20409,Santa María del Tule,santa_maria_del_tule,Muy bajo,Muy bajo,Alto,Alto,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio
-20410,Santa María Ecatepec,santa_maria_ecatepec,Medio,Medio,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
-20411,Santa María Guelacé,santa_maria_guelace,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
-20412,Santa María Guienagati,santa_maria_guienagati,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20413,Santa María Huatulco,santa_maria_huatulco,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
-20414,Santa María Huazolotitlán,santa_maria_huazolotitlan,Medio,Medio,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20415,Santa María Ipalapa,santa_maria_ipalapa,Medio,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20416,Santa María Ixcatlán,santa_maria_ixcatlan,Alto,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Muy bajo
-20417,Santa María Jacatepec,santa_maria_jacatepec,Alto,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Muy bajo,Medio
-20418,Santa María Jalapa del Marqués,santa_maria_jalapa_del_marques,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Bajo
-20419,Santa María Jaltianguis,santa_maria_jaltianguis,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Alto,Alto
-20420,Santa María Lachixío,santa_maria_lachixio,Alto,Alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Medio,Alto
-20421,Santa María Mixtequilla,santa_maria_mixtequilla,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
-20422,Santa María Nativitas,santa_maria_nativitas,Medio,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20423,Santa María Nduayaco,santa_maria_nduayaco,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20424,Santa María Ozolotepec,santa_maria_ozolotepec,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20425,Santa María Pápalo,santa_maria_papalo,Alto,Alto,Muy bajo,Bajo,,Medio,Medio,Muy alto,Medio,Bajo,Medio
-20426,Santa María Peñoles,santa_maria_penoles,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio
-20427,Santa María Petapa,santa_maria_petapa,Medio,Bajo,Bajo,Muy bajo,,Medio,,Medio,Medio,Bajo,Bajo
-20428,Santa María Quiegolani,santa_maria_quiegolani,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Alto
-20429,Santa María Sola,santa_maria_sola,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Bajo
-20430,Santa María Tataltepec,santa_maria_tataltepec,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20431,Santa María Tecomavaca,santa_maria_tecomavaca,Medio,Bajo,Medio,Muy bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio
-20432,Santa María Temaxcalapa,santa_maria_temaxcalapa,Bajo,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Bajo,Medio
-20433,Santa María Temaxcaltepec,santa_maria_temaxcaltepec,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio
-20434,Santa María Teopoxco,santa_maria_teopoxco,Alto,Alto,Muy bajo,Bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Alto
-20435,Santa María Tepantlali,santa_maria_tepantlali,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Medio
-20436,Santa María Texcatitlán,santa_maria_texcatitlan,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Alto
-20437,Santa María Tlahuitoltepec,santa_maria_tlahuitoltepec,Alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Medio
-20438,Santa María Tlalixtac,santa_maria_tlalixtac,Alto,Alto,Muy bajo,Medio,,Alto,Medio,Alto,Medio,Bajo,Alto
-20439,Santa María Tonameca,santa_maria_tonameca,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20440,Santa María Totolapilla,santa_maria_totolapilla,Alto,Medio,Bajo,Medio,,Medio,Medio,Alto,Bajo,Bajo,Alto
-20441,Santa María Xadani,santa_maria_xadani,Medio,Medio,Medio,Muy bajo,Muy bajo,Alto,Medio,Alto,Bajo,Bajo,Medio
-20442,Santa María Yalina,santa_maria_yalina,Medio,Bajo,Bajo,Alto,Alto,Medio,Medio,Alto,Medio,Alto,Alto
-20443,Santa María Yavesía,santa_maria_yavesia,Bajo,Bajo,Bajo,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
-20444,Santa María Yolotepec,santa_maria_yolotepec,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20445,Santa María Yosoyúa,santa_maria_yosoyua,Medio,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Alto
-20446,Santa María Yucuhiti,santa_maria_yucuhiti,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Muy bajo,Alto
-20447,Santa María Zacatepec,santa_maria_zacatepec,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
-20448,Santa María Zaniza,santa_maria_zaniza,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Medio,Medio,,Medio,Bajo,Alto
-20449,Santa María Zoquitlán,santa_maria_zoquitlan,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Medio
-20450,Santiago Amoltepec,santiago_amoltepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20451,Santiago Apoala,santiago_apoala,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Medio
-20452,Santiago Apóstol,santiago_apostol,Muy alto,Alto,Medio,Muy bajo,,Alto,Medio,Medio,Medio,Bajo,Bajo
-20453,Santiago Astata,santiago_astata,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Bajo,Bajo,Medio
-20454,Santiago Atitlán,santiago_atitlan,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20455,Santiago Ayuquililla,santiago_ayuquililla,Alto,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20456,Santiago Cacaloxtepec,santiago_cacaloxtepec,Alto,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Bajo,Medio,Medio
-20457,Santiago Camotlán,santiago_camotlan,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
-20458,Santiago Comaltepec,santiago_comaltepec,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20459,Villa de Santiago Chazumba,villa_de_santiago_chazumba,Medio,Bajo,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio
-20460,Santiago Choápam,santiago_choapam,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Medio
-20461,Santiago del Río,santiago_del_rio,Alto,Medio,Muy bajo,Bajo,,Alto,Alto,Medio,Medio,Bajo,Medio
-20462,Santiago Huajolotitlán,santiago_huajolotitlan,Bajo,Bajo,Bajo,Bajo,,Bajo,Alto,Medio,Medio,Medio,Bajo
-20463,Santiago Huauclilla,santiago_huauclilla,Medio,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Medio
-20464,Santiago Ihuitlán Plumas,santiago_ihuitlan_plumas,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Alto,Alto,Medio,Bajo,Medio
-20465,Santiago Ixcuintepec,santiago_ixcuintepec,Alto,Alto,Muy bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20466,Santiago Ixtayutla,santiago_ixtayutla,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
-20467,Santiago Jamiltepec,santiago_jamiltepec,Medio,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Muy bajo
-20468,Santiago Jocotepec,santiago_jocotepec,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Muy bajo,Bajo
-20469,Santiago Juxtlahuaca,santiago_juxtlahuaca,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
-20470,Santiago Lachiguiri,santiago_lachiguiri,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
-20471,Santiago Lalopa,santiago_lalopa,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20472,Santiago Laollaga,santiago_laollaga,Bajo,Bajo,Medio,Bajo,,Medio,Alto,Medio,Medio,Medio,Medio
-20473,Santiago Laxopa,santiago_laxopa,Bajo,Medio,Muy bajo,Medio,Medio,Bajo,Medio,Alto,Medio,Alto,Alto
-20474,Santiago Llano Grande,santiago_llano_grande,Alto,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Muy bajo,Medio
-20475,Santiago Matatlán,santiago_matatlan,Alto,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Muy bajo
-20476,Santiago Miltepec,santiago_miltepec,Medio,Bajo,Muy bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20477,Santiago Minas,santiago_minas,Alto,Medio,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
-20478,Santiago Nacaltepec,santiago_nacaltepec,Medio,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20479,Santiago Nejapilla,santiago_nejapilla,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20480,Santiago Nundiche,santiago_nundiche,Muy alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,,Medio,Muy bajo,Medio
-20481,Santiago Nuyoó,santiago_nuyoo,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
-20482,Santiago Pinotepa Nacional,santiago_pinotepa_nacional,Alto,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo,Bajo,Bajo
-20483,Santiago Suchilquitongo,santiago_suchilquitongo,Bajo,Bajo,Medio,Muy bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
-20484,Santiago Tamazola,santiago_tamazola,Alto,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
-20485,Santiago Tapextla,santiago_tapextla,Muy alto,Alto,Bajo,Muy bajo,,Alto,Medio,Medio,Medio,Muy bajo,Medio
-20486,Villa Tejúpam de la Unión,villa_tejupam_de_la_union,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20487,Santiago Tenango,santiago_tenango,Medio,Medio,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Bajo
-20488,Santiago Tepetlapa,santiago_tepetlapa,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Medio
-20489,Santiago Tetepec,santiago_tetepec,Alto,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20490,Santiago Texcalcingo,santiago_texcalcingo,Alto,Alto,Muy bajo,Bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20491,Santiago Textitlán,santiago_textitlan,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
-20492,Santiago Tilantongo,santiago_tilantongo,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Alto
-20493,Santiago Tillo,santiago_tillo,Bajo,Bajo,Medio,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20494,Santiago Tlazoyaltepec,santiago_tlazoyaltepec,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20495,Santiago Xanica,santiago_xanica,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Medio
-20496,Santiago Xiacuí,santiago_xiacui,Bajo,Bajo,Medio,Bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Medio
-20497,Santiago Yaitepec,santiago_yaitepec,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Bajo,Bajo,Medio
-20498,Santiago Yaveo,santiago_yaveo,Muy alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20499,Santiago Yolomécatl,santiago_yolomecatl,Bajo,Bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Medio,Medio
-20500,Santiago Yosondúa,santiago_yosondua,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Alto
-20501,Santiago Yucuyachi,santiago_yucuyachi,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20502,Santiago Zacatepec,santiago_zacatepec,Muy alto,Muy alto,Bajo,Muy bajo,Alto,Alto,Medio,Alto,Medio,Muy bajo,Alto
-20503,Santiago Zoochila,santiago_zoochila,Bajo,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Medio,Medio
-20504,Nuevo Zoquiápam,nuevo_zoquiapam,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
-20505,Santo Domingo Ingenio,santo_domingo_ingenio,Bajo,Bajo,Medio,Medio,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
-20506,Santo Domingo Albarradas,santo_domingo_albarradas,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20507,Santo Domingo Armenta,santo_domingo_armenta,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Medio
-20508,Santo Domingo Chihuitán,santo_domingo_chihuitan,Bajo,Bajo,Medio,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Alto
-20509,Santo Domingo de Morelos,santo_domingo_de_morelos,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Alto,Medio,Medio,Muy bajo,Alto
-20510,Santo Domingo Ixcatlán,santo_domingo_ixcatlan,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
-20511,Santo Domingo Nuxaá,santo_domingo_nuxaa,Muy alto,Muy alto,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Alto
-20512,Santo Domingo Ozolotepec,santo_domingo_ozolotepec,Alto,Alto,Muy bajo,Bajo,Bajo,Alto,Medio,Muy alto,Medio,Bajo,Medio
-20513,Santo Domingo Petapa,santo_domingo_petapa,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20514,Santo Domingo Roayaga,santo_domingo_roayaga,Muy alto,Muy alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Alto,Muy bajo,Bajo
-20515,Santo Domingo Tehuantepec,santo_domingo_tehuantepec,Bajo,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
-20516,Santo Domingo Teojomulco,santo_domingo_teojomulco,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio,Alto
-20517,Santo Domingo Tepuxtepec,santo_domingo_tepuxtepec,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Medio
-20518,Santo Domingo Tlatayápam,santo_domingo_tlatayapam,Bajo,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
-20519,Santo Domingo Tomaltepec,santo_domingo_tomaltepec,Medio,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
-20520,Santo Domingo Tonalá,santo_domingo_tonala,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20521,Santo Domingo Tonaltepec,santo_domingo_tonaltepec,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Alto,Alto,Medio,Medio,Medio
-20522,Santo Domingo Xagacía,santo_domingo_xagacia,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20523,Santo Domingo Yanhuitlán,santo_domingo_yanhuitlan,Medio,Bajo,Medio,Bajo,,Medio,Alto,Medio,Medio,Bajo,Medio
-20524,Santo Domingo Yodohino,santo_domingo_yodohino,Bajo,Bajo,Muy bajo,Muy bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
-20525,Santo Domingo Zanatepec,santo_domingo_zanatepec,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
-20526,Santos Reyes Nopala,santos_reyes_nopala,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
-20527,Santos Reyes Pápalo,santos_reyes_papalo,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
-20528,Santos Reyes Tepejillo,santos_reyes_tepejillo,Alto,Medio,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
-20529,Santos Reyes Yucuná,santos_reyes_yucuna,Muy alto,Alto,Bajo,Bajo,Alto,Alto,Alto,Alto,Bajo,Bajo,Alto
-20530,Santo Tomás Jalieza,santo_tomas_jalieza,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
-20531,Santo Tomás Mazaltepec,santo_tomas_mazaltepec,Medio,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
-20532,Santo Tomás Ocotepec,santo_tomas_ocotepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Alto,Bajo
-20533,Santo Tomás Tamazulapan,santo_tomas_tamazulapan,Medio,Bajo,Medio,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Bajo
-20534,San Vicente Coatlán,san_vicente_coatlan,Alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Medio,Medio
-20535,San Vicente Lachixío,san_vicente_lachixio,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
-20536,San Vicente Nuñú,san_vicente_nunu,Bajo,Bajo,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Alto
-20537,Silacayoápam,silacayoapam,Alto,Bajo,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Medio
-20538,Sitio de Xitlapehua,sitio_de_xitlapehua,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Bajo,Medio,Medio
-20539,Soledad Etla,soledad_etla,Bajo,Bajo,Medio,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Medio
-20540,Villa de Tamazulápam del Progreso,villa_de_tamazulapam_del_progreso,Bajo,Bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
-20541,Tanetze de Zaragoza,tanetze_de_zaragoza,Medio,Medio,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
-20542,Taniche,taniche,Medio,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
-20543,Tataltepec de Valdés,tataltepec_de_valdes,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Bajo,Muy bajo,Alto
-20544,Teococuilco de Marcos Pérez,teococuilco_de_marcos_perez,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20545,Teotitlán de Flores Magón,teotitlan_de_flores_magon,Bajo,Bajo,Medio,Medio,Alto,Medio,Alto,Medio,Medio,Medio,Medio
-20546,Teotitlán del Valle,teotitlan_del_valle,Alto,Medio,Medio,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
-20547,Teotongo,teotongo,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
-20548,Tepelmeme Villa de Morelos,tepelmeme_villa_de_morelos,Alto,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
-20549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca","heroica_villa_tezoatlan_de_segura_y_luna,_cuna_de_la_independencia_de_oaxaca",Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
-20550,San Jerónimo Tlacochahuaya,san_jeronimo_tlacochahuaya,Medio,Bajo,Medio,Bajo,Alto,Medio,Alto,Alto,Medio,Medio,Medio
-20551,Tlacolula de Matamoros,tlacolula_de_matamoros,Bajo,Bajo,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20552,Tlacotepec Plumas,tlacotepec_plumas,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
-20553,Tlalixtac de Cabrera,tlalixtac_de_cabrera,Muy bajo,Bajo,Medio,Bajo,Alto,Bajo,Alto,Medio,Medio,Alto,Muy bajo
-20554,Totontepec Villa de Morelos,totontepec_villa_de_morelos,Alto,Alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio
-20555,Trinidad Zaachila,trinidad_zaachila,Medio,Bajo,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
-20556,La Trinidad Vista Hermosa,la_trinidad_vista_hermosa,Medio,Bajo,Medio,Medio,,Medio,Medio,Alto,Medio,Medio,Medio
-20557,Unión Hidalgo,union_hidalgo,Muy bajo,Muy bajo,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
-20558,Valerio Trujano,valerio_trujano,Medio,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio,Alto
-20559,San Juan Bautista Valle Nacional,san_juan_bautista_valle_nacional,Medio,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
-20560,Villa Díaz Ordaz,villa_diaz_ordaz,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Muy bajo
-20561,Yaxe,yaxe,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
-20562,Magdalena Yodocono de Porfirio Díaz,magdalena_yodocono_de_porfirio_diaz,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
-20563,Yogana,yogana,Muy alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Alto,Medio
-20564,Yutanduchi de Guerrero,yutanduchi_de_guerrero,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Muy bajo,Alto
-20565,Villa de Zaachila,villa_de_zaachila,Alto,Medio,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
-20566,San Mateo Yucutindoo,san_mateo_yucutindoo,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
-20567,Zapotitlán Lagunas,zapotitlan_lagunas,Muy alto,Medio,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Medio
-20568,Zapotitlán Palmas,zapotitlan_palmas,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
-20569,Santa Inés de Zaragoza,santa_ines_de_zaragoza,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
-20570,Zimatlán de Álvarez,zimatlan_de_alvarez,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
+cve_mun,municipio_norm,municipio,grad_margi,grad_rez_social,conectividad,servicios_basicos,elementos_salud,educacion,desigualdad,dependencia_economica,calidad_vivienda,seguridad_alimentaria,seguridad_social
+20001,abejones,Abejones,Alto,Medio,Bajo,Bajo,Alto,Alto,Medio,Alto,Medio,Bajo,Alto
+20002,acatlandeperezfigueroa,Acatlán de Pérez Figueroa,Medio,Bajo,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio
+20003,asuncioncacalotepec,Asunción Cacalotepec,Alto,Muy alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Alto,Medio
+20004,asuncioncuyotepeji,Asunción Cuyotepeji,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20005,asuncionixtaltepec,Asunción Ixtaltepec,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20006,asuncionnochixtlan,Asunción Nochixtlán,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20007,asuncionocotlan,Asunción Ocotlán,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Alto,Bajo,Bajo
+20008,asunciontlacolulita,Asunción Tlacolulita,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20009,ayotzintepec,Ayotzintepec,Alto,Medio,Bajo,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Muy bajo,Alto
+20010,elbarriodelasoledad,El Barrio de la Soledad,Bajo,Muy bajo,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20011,calihuala,Calihualá,Alto,Medio,Muy bajo,Muy bajo,,Alto,Alto,Alto,Medio,Muy bajo,Medio
+20012,candelarialoxicha,Candelaria Loxicha,Muy alto,Alto,Bajo,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
+20013,cienegadezimatlan,Ciénega de Zimatlán,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Alto,Medio,Alto,Medio
+20014,ciudadixtepec,Ciudad Ixtepec,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
+20015,coatecasaltas,Coatecas Altas,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Medio
+20016,coicoyandelasflores,Coicoyán de las Flores,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Alto,Medio,Medio,Bajo,Medio
+20017,lacompania,La Compañía,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20018,concepcionbuenavista,Concepción Buenavista,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20019,concepcionpapalo,Concepción Pápalo,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20020,constanciadelrosario,Constancia del Rosario,Alto,Medio,Bajo,Muy bajo,,Alto,Alto,Medio,Medio,Bajo,Medio
+20021,cosolapa,Cosolapa,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Bajo
+20022,cosoltepec,Cosoltepec,Medio,Bajo,Muy bajo,Muy bajo,,Bajo,Alto,Alto,Medio,Bajo,Medio
+20023,cuilapamdeguerrero,Cuilápam de Guerrero,Alto,Medio,Medio,Muy bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20024,cuyamecalcovilladezaragoza,Cuyamecalco Villa de Zaragoza,Alto,Alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Bajo,Medio
+20025,chahuites,Chahuites,Medio,Bajo,Medio,Muy bajo,Bajo,Medio,Medio,Alto,Bajo,Bajo,Bajo
+20026,chalcatongodehidalgo,Chalcatongo de Hidalgo,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
+20027,chiquihuitlandebenitojuarez,Chiquihuitlán de Benito Juárez,Alto,Alto,Muy bajo,Bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20028,heroicaciudaddeejutladecrespo,Heroica Ciudad de Ejutla de Crespo,Alto,Medio,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo
+20029,eloxochitlandefloresmagon,Eloxochitlán de Flores Magón,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Medio,Alto
+20030,elespinal,El Espinal,Muy bajo,Muy bajo,Medio,Alto,Medio,Bajo,Medio,Medio,Medio,Medio,Medio
+20031,tamazulapamdelespiritusanto,Tamazulápam del Espíritu Santo,Alto,Alto,Bajo,Bajo,Alto,Alto,Alto,Medio,Medio,Medio,Medio
+20032,fresnillodetrujano,Fresnillo de Trujano,Alto,Medio,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20033,guadalupeetla,Guadalupe Etla,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Bajo,Bajo
+20034,guadalupederamirez,Guadalupe de Ramírez,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20035,guelataodejuarez,Guelatao de Juárez,Muy bajo,Muy bajo,Medio,Alto,Alto,Bajo,Alto,Medio,Medio,Alto,Alto
+20036,gueveadehumboldt,Guevea de Humboldt,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Muy bajo,Alto
+20037,mesoneshidalgo,Mesones Hidalgo,Alto,Alto,Bajo,Muy bajo,Bajo,Alto,Alto,Medio,Medio,Bajo,Medio
+20038,villahidalgo,Villa Hidalgo,Alto,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Medio
+20039,heroicaciudaddehuajuapandeleon,Heroica Ciudad de Huajuapan de León,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20040,huautepec,Huautepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Bajo,Muy bajo,Medio
+20041,huautladejimenez,Huautla de Jiménez,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Bajo,Medio
+20042,ixtlandejuarez,Ixtlán de Juárez,Medio,Bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Alto,Medio
+20043,juchitandezaragoza,Juchitán de Zaragoza,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
+20044,lomabonita,Loma Bonita,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20045,magdalenaapasco,Magdalena Apasco,Muy bajo,Muy bajo,Medio,Alto,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
+20046,magdalenajaltepec,Magdalena Jaltepec,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
+20047,santamagdalenajicotlan,Santa Magdalena Jicotlán,Bajo,Bajo,Bajo,Bajo,,Medio,Medio,Medio,Medio,Medio,Bajo
+20048,magdalenamixtepec,Magdalena Mixtepec,Alto,Muy alto,Bajo,Muy bajo,Medio,Medio,Medio,,Medio,Medio,Medio
+20049,magdalenaocotlan,Magdalena Ocotlán,Alto,Medio,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Bajo
+20050,magdalenapenasco,Magdalena Peñasco,Alto,Alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Alto
+20051,magdalenateitipac,Magdalena Teitipac,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Muy alto,Medio,Medio,Bajo
+20052,magdalenatequisistlan,Magdalena Tequisistlán,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20053,magdalenatlacotepec,Magdalena Tlacotepec,Bajo,Bajo,Medio,Bajo,,Medio,Alto,Medio,Medio,Alto,Medio
+20054,magdalenazahuatlan,Magdalena Zahuatlán,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
+20055,mariscaladejuarez,Mariscala de Juárez,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio
+20056,martiresdetacubaya,Mártires de Tacubaya,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Bajo,Medio
+20057,matiasromeroavendano,Matías Romero Avendaño,Medio,Bajo,Medio,Bajo,Medio,Medio,,Medio,Medio,Bajo,Bajo
+20058,mazatlanvilladeflores,Mazatlán Villa de Flores,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20059,miahuatlandeporfiriodiaz,Miahuatlán de Porfirio Díaz,Medio,Medio,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Muy bajo
+20060,mixistlandelareforma,Mixistlán de la Reforma,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
+20061,monjas,Monjas,Muy alto,Alto,Bajo,Muy bajo,Alto,Alto,Medio,Alto,Medio,Medio,Medio
+20062,natividad,Natividad,Bajo,Bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Alto,Medio
+20063,nazarenoetla,Nazareno Etla,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Medio
+20064,nejapademadero,Nejapa de Madero,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20065,ixpantepecnieves,Ixpantepec Nieves,Alto,Medio,Bajo,Bajo,,Alto,Medio,Alto,Medio,Bajo,Bajo
+20066,santiagoniltepec,Santiago Niltepec,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20067,oaxacadejuarez,Oaxaca de Juárez,Muy bajo,Muy bajo,Alto,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20068,ocotlandemorelos,Ocotlán de Morelos,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
+20069,lape,La Pe,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
+20070,pinotepadedonluis,Pinotepa de Don Luis,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
+20071,plumahidalgo,Pluma Hidalgo,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20072,sanjosedelprogreso,San José del Progreso,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20073,putlavilladeguerrero,Putla Villa de Guerrero,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Bajo
+20074,santacatarinaquioquitani,Santa Catarina Quioquitani,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Medio,Muy alto,Medio,Medio,Alto
+20075,reformadepineda,Reforma de Pineda,Bajo,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20076,lareforma,La Reforma,Medio,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Medio
+20077,reyesetla,Reyes Etla,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Alto,Medio,Medio,Medio,Medio
+20078,rojasdecuauhtemoc,Rojas de Cuauhtémoc,Bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Medio
+20079,salinacruz,Salina Cruz,Muy bajo,Muy bajo,Medio,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
+20080,sanagustinamatengo,San Agustín Amatengo,Alto,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20081,sanagustinatenango,San Agustín Atenango,Alto,Medio,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Bajo,Medio
+20082,sanagustinchayuco,San Agustín Chayuco,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20083,sanagustindelasjuntas,San Agustín de las Juntas,Muy bajo,Muy bajo,Medio,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20084,sanagustinetla,San Agustín Etla,Muy bajo,Muy bajo,Alto,Alto,,Bajo,Medio,Alto,Medio,Medio,Medio
+20085,sanagustinloxicha,San Agustín Loxicha,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20086,sanagustintlacotepec,San Agustín Tlacotepec,Alto,Alto,Muy bajo,Muy bajo,,Medio,Alto,Alto,Medio,Medio,Medio
+20087,sanagustinyatareni,San Agustín Yatareni,Alto,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Alto,Muy bajo
+20088,sanandrescabeceranueva,San Andrés Cabecera Nueva,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20089,sanandresdinicuiti,San Andrés Dinicuiti,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Bajo,Medio,Medio
+20090,sanandreshuaxpaltepec,San Andrés Huaxpaltepec,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20091,sanandreshuayapam,San Andrés Huayápam,Muy bajo,Muy bajo,Alto,Alto,Medio,Bajo,Alto,Medio,Medio,Alto,Medio
+20092,sanandresixtlahuaca,San Andrés Ixtlahuaca,Medio,Medio,Medio,Muy bajo,,Medio,Alto,Medio,Medio,Medio,Bajo
+20093,sanandreslagunas,San Andrés Lagunas,Medio,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20094,sanandresnuxino,San Andrés Nuxiño,Medio,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Muy alto,Medio,Medio,Alto
+20095,sanandrespaxtlan,San Andrés Paxtlán,Alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Muy alto,Medio,Bajo,Medio
+20096,sanandressinaxtla,San Andrés Sinaxtla,Bajo,Bajo,Medio,Medio,,Bajo,Medio,Alto,Medio,Medio,Medio
+20097,sanandressolaga,San Andrés Solaga,Medio,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Medio
+20098,sanandresteotilalpam,San Andrés Teotilálpam,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20099,sanandrestepetlapa,San Andrés Tepetlapa,Muy alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,,Medio,Bajo,Alto
+20100,sanandresyaa,San Andrés Yaá,Alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Medio
+20101,sanandreszabache,San Andrés Zabache,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Medio
+20102,sanandreszautla,San Andrés Zautla,Medio,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
+20103,sanantoninocastillovelasco,San Antonino Castillo Velasco,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Bajo
+20104,sanantoninoelalto,San Antonino el Alto,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20105,sanantoninomonteverde,San Antonino Monte Verde,Medio,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Medio
+20106,sanantonioacutla,San Antonio Acutla,Medio,Medio,Bajo,Medio,,Medio,Medio,Alto,Medio,Medio,Alto
+20107,sanantoniodelacal,San Antonio de la Cal,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
+20108,sanantoniohuitepec,San Antonio Huitepec,Alto,Medio,Muy bajo,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Bajo,Medio
+20109,sanantonionanahuatipam,San Antonio Nanahuatípam,Medio,Bajo,Medio,Bajo,Alto,Bajo,Alto,Medio,Medio,Medio,Alto
+20110,sanantoniosinicahua,San Antonio Sinicahua,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Bajo
+20111,sanantoniotepetlapa,San Antonio Tepetlapa,Muy alto,Alto,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Medio
+20112,sanbaltazarchichicapam,San Baltazar Chichicápam,Alto,Medio,Bajo,Muy bajo,Medio,Alto,Alto,Medio,Medio,Medio,Bajo
+20113,sanbaltazarloxicha,San Baltazar Loxicha,Medio,Medio,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20114,sanbaltazaryatzachielbajo,San Baltazar Yatzachi el Bajo,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
+20115,sanbartolocoyotepec,San Bartolo Coyotepec,Bajo,Muy bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Medio,Bajo
+20116,sanbartolomeayautla,San Bartolomé Ayautla,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Bajo,Muy bajo,Medio
+20117,sanbartolomeloxicha,San Bartolomé Loxicha,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Bajo,Bajo,Alto
+20118,sanbartolomequialana,San Bartolomé Quialana,Alto,Medio,Medio,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Bajo
+20119,sanbartolomeyucuane,San Bartolomé Yucuañe,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20120,sanbartolomezoogocho,San Bartolomé Zoogocho,Medio,Medio,Medio,Muy bajo,,Medio,Alto,Medio,Medio,Medio,Bajo
+20121,sanbartolosoyaltepec,San Bartolo Soyaltepec,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20122,sanbartoloyautepec,San Bartolo Yautepec,Medio,Bajo,Muy bajo,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
+20123,sanbernardomixtepec,San Bernardo Mixtepec,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Medio,Medio
+20124,sanblasatempa,San Blas Atempa,Muy alto,Alto,Bajo,Bajo,Medio,Muy alto,Medio,Alto,Medio,Bajo,Medio
+20125,sancarlosyautepec,San Carlos Yautepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20126,sancristobalamatlan,San Cristóbal Amatlán,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
+20127,sancristobalamoltepec,San Cristóbal Amoltepec,Alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20128,sancristoballachirioag,San Cristóbal Lachirioag,Medio,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Alto,Bajo
+20129,sancristobalsuchixtlahuaca,San Cristóbal Suchixtlahuaca,Bajo,Muy bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
+20130,sandionisiodelmar,San Dionisio del Mar,Muy alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20131,sandionisioocotepec,San Dionisio Ocotepec,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Bajo
+20132,sandionisioocotlan,San Dionisio Ocotlán,Medio,Bajo,Medio,Bajo,,Bajo,Alto,Medio,Medio,Medio,Medio
+20133,sanestebanatatlahuca,San Esteban Atatlahuca,Alto,Muy alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Alto
+20134,sanfelipejalapadediaz,San Felipe Jalapa de Díaz,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Alto,Medio,Bajo,Muy bajo,Bajo
+20135,sanfelipetejalapam,San Felipe Tejalápam,Medio,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
+20136,sanfelipeusila,San Felipe Usila,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Bajo
+20137,sanfranciscocahuacua,San Francisco Cahuacuá,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Alto
+20138,sanfranciscocajonos,San Francisco Cajonos,Medio,Medio,Bajo,Medio,,Medio,Medio,Alto,Medio,Medio,Medio
+20139,sanfranciscochapulapa,San Francisco Chapulapa,Alto,Alto,Bajo,Bajo,Alto,Alto,Medio,Medio,Medio,Muy bajo,Alto
+20140,sanfranciscochindua,San Francisco Chindúa,Medio,Medio,Bajo,Muy bajo,Medio,Medio,,Alto,Medio,Bajo,Medio
+20141,sanfranciscodelmar,San Francisco del Mar,Alto,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Muy bajo,Medio
+20142,sanfranciscohuehuetlan,San Francisco Huehuetlán,Alto,Alto,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Medio,Alto
+20143,sanfranciscoixhuatan,San Francisco Ixhuatán,Bajo,Bajo,Medio,Bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Alto
+20144,sanfranciscojaltepetongo,San Francisco Jaltepetongo,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20145,sanfranciscolachigolo,San Francisco Lachigoló,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
+20146,sanfranciscologueche,San Francisco Logueche,Alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,,Medio,Medio,Alto
+20147,sanfrancisconuxano,San Francisco Nuxaño,Medio,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20148,sanfranciscoozolotepec,San Francisco Ozolotepec,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
+20149,sanfranciscosola,San Francisco Sola,Alto,Alto,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo
+20150,sanfranciscotelixtlahuaca,San Francisco Telixtlahuaca,Muy bajo,Bajo,Medio,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
+20151,sanfranciscoteopan,San Francisco Teopan,Alto,Medio,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Medio,Muy bajo,Alto
+20152,sanfranciscotlapancingo,San Francisco Tlapancingo,Muy alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Alto
+20153,sangabrielmixtepec,San Gabriel Mixtepec,Medio,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Medio,Alto
+20154,sanildefonsoamatlan,San Ildefonso Amatlán,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20155,sanildefonsosola,San Ildefonso Sola,Muy alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20156,sanildefonsovillaalto,San Ildefonso Villa Alto,Medio,Bajo,Bajo,Bajo,Bajo,Medio,Alto,Alto,Medio,Medio,Bajo
+20157,sanjacintoamilpas,San Jacinto Amilpas,Muy bajo,Muy bajo,Alto,Alto,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20158,sanjacintotlacotepec,San Jacinto Tlacotepec,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
+20159,sanjeronimocoatlan,San Jerónimo Coatlán,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio
+20160,sanjeronimosilacayoapilla,San Jerónimo Silacayoapilla,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20161,sanjeronimososola,San Jerónimo Sosola,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20162,sanjeronimotaviche,San Jerónimo Taviche,Muy alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Muy alto,Bajo,Bajo,Medio
+20163,sanjeronimotecoatl,San Jerónimo Tecóatl,Alto,Alto,Bajo,Muy bajo,Alto,Alto,Alto,Medio,Medio,Bajo,Medio
+20164,sanjorgenuchita,San Jorge Nuchita,Alto,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Medio,Muy bajo,Medio
+20165,sanjoseayuquila,San José Ayuquila,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
+20166,sanjosechiltepec,San José Chiltepec,Medio,Bajo,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Muy bajo,Bajo
+20167,sanjosedelpenasco,San José del Peñasco,Alto,Alto,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Medio
+20168,sanjoseestanciagrande,San José Estancia Grande,Alto,Medio,Medio,Muy bajo,,Alto,Medio,Medio,Bajo,Bajo,Medio
+20169,sanjoseindependencia,San José Independencia,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20170,sanjoselachiguiri,San José Lachiguiri,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20171,sanjosetenango,San José Tenango,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Medio
+20172,sanjuanachiutla,San Juan Achiutla,Bajo,Bajo,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20173,sanjuanatepec,San Juan Atepec,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
+20174,animastrujano,Ánimas Trujano,Muy bajo,Muy bajo,Medio,Alto,,Bajo,Alto,Alto,Medio,Medio,Bajo
+20175,sanjuanbautistaatatlahuca,San Juan Bautista Atatlahuca,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20176,sanjuanbautistacoixtlahuaca,San Juan Bautista Coixtlahuaca,Alto,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio
+20177,sanjuanbautistacuicatlan,San Juan Bautista Cuicatlán,Bajo,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio,Medio
+20178,sanjuanbautistaguelache,San Juan Bautista Guelache,Bajo,Muy bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
+20179,sanjuanbautistajayacatlan,San Juan Bautista Jayacatlán,Medio,Bajo,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Alto,Medio
+20180,sanjuanbautistalodesoto,San Juan Bautista Lo de Soto,Medio,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Bajo,Bajo,Medio
+20181,sanjuanbautistasuchitepec,San Juan Bautista Suchitepec,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
+20182,sanjuanbautistatlacoatzintepec,San Juan Bautista Tlacoatzintepec,Alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Medio,Medio,Bajo,Medio
+20183,sanjuanbautistatlachichilco,San Juan Bautista Tlachichilco,Alto,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20184,sanjuanbautistatuxtepec,San Juan Bautista Tuxtepec,Bajo,Bajo,Medio,Bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Muy bajo
+20185,sanjuancacahuatepec,San Juan Cacahuatepec,Medio,Bajo,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Bajo,Bajo,Medio
+20186,sanjuancieneguilla,San Juan Cieneguilla,Medio,Bajo,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Alto
+20187,sanjuancoatzospam,San Juan Coatzóspam,Alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20188,sanjuancolorado,San Juan Colorado,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Muy bajo,Medio
+20189,sanjuancomaltepec,San Juan Comaltepec,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Alto
+20190,sanjuancotzocon,San Juan Cotzocón,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
+20191,sanjuanchicomezuchil,San Juan Chicomezúchil,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
+20192,sanjuanchilateca,San Juan Chilateca,Muy bajo,Muy bajo,Medio,Medio,,Bajo,Alto,Medio,Medio,Alto,Bajo
+20193,sanjuandelestado,San Juan del Estado,Bajo,Bajo,Medio,Medio,,Bajo,Medio,Alto,Medio,Medio,Bajo
+20194,sanjuandelrio,San Juan del Río,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Bajo
+20195,sanjuandiuxi,San Juan Diuxi,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20196,sanjuanevangelistaanalco,San Juan Evangelista Analco,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Alto,Medio
+20197,sanjuanguelavia,San Juan Guelavía,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20198,sanjuanguichicovi,San Juan Guichicovi,Alto,Medio,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Medio
+20199,sanjuanihualtepec,San Juan Ihualtepec,Alto,Medio,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20200,sanjuanjuquilamixes,San Juan Juquila Mixes,Alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio
+20201,sanjuanjuquilavijanos,San Juan Juquila Vijanos,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Alto,Medio
+20202,sanjuanlachao,San Juan Lachao,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Alto
+20203,sanjuanlachigalla,San Juan Lachigalla,Muy alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20204,sanjuanlajarcia,San Juan Lajarcia,Medio,Bajo,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20205,sanjuanlalana,San Juan Lalana,Muy alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Muy bajo,Bajo
+20206,sanjuandeloscues,San Juan de los Cués,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Medio,Medio
+20207,sanjuanmazatlan,San Juan Mazatlán,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20208,sanjuanmixtepec,San Juan Mixtepec,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Bajo
+20209,sanjuanmixtepec,San Juan Mixtepec,Alto,Alto,Muy bajo,Medio,Alto,Alto,Medio,Alto,Medio,Alto,Medio
+20210,sanjuannumi,San Juan Ñumí,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20211,sanjuanozolotepec,San Juan Ozolotepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
+20212,sanjuanpetlapa,San Juan Petlapa,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Muy bajo,Medio
+20213,sanjuanquiahije,San Juan Quiahije,Alto,Alto,Medio,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Alto
+20214,sanjuanquiotepec,San Juan Quiotepec,Alto,Medio,Bajo,Bajo,,Alto,Medio,Alto,Medio,Medio,Alto
+20215,sanjuansayultepec,San Juan Sayultepec,Bajo,Bajo,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
+20216,sanjuantabaa,San Juan Tabaá,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Alto,Medio,Alto,Medio
+20217,sanjuantamazola,San Juan Tamazola,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20218,sanjuanteita,San Juan Teita,Alto,Alto,Muy bajo,Muy bajo,,Medio,Medio,,Medio,Bajo,Alto
+20219,sanjuanteitipac,San Juan Teitipac,Alto,Medio,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20220,sanjuantepeuxila,San Juan Tepeuxila,Medio,Medio,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
+20221,sanjuanteposcolula,San Juan Teposcolula,Medio,Medio,Bajo,Bajo,,Medio,Medio,Medio,Medio,Medio,Medio
+20222,sanjuanyaee,San Juan Yaeé,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Alto,Alto
+20223,sanjuanyatzona,San Juan Yatzona,Bajo,Bajo,Bajo,Medio,Alto,Medio,Medio,Alto,Medio,Bajo,Medio
+20224,sanjuanyucuita,San Juan Yucuita,Medio,Bajo,Bajo,Bajo,Alto,Bajo,Alto,Medio,Medio,Alto,Medio
+20225,sanlorenzo,San Lorenzo,Muy alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Medio
+20226,sanlorenzoalbarradas,San Lorenzo Albarradas,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20227,sanlorenzocacaotepec,San Lorenzo Cacaotepec,Muy bajo,Muy bajo,Medio,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Bajo
+20228,sanlorenzocuaunecuiltitla,San Lorenzo Cuaunecuiltitla,Alto,Alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Alto,Bajo,Medio,Alto
+20229,sanlorenzotexmelucan,San Lorenzo Texmelúcan,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Alto
+20230,sanlorenzovictoria,San Lorenzo Victoria,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Bajo,Bajo,Bajo
+20231,sanlucascamotlan,San Lucas Camotlán,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Alto,Medio,Medio,Alto,Alto
+20232,sanlucasojitlan,San Lucas Ojitlán,Muy alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Muy bajo,Medio
+20233,sanlucasquiavini,San Lucas Quiaviní,Alto,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Medio,Alto,Bajo
+20234,sanlucaszoquiapam,San Lucas Zoquiápam,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20235,sanluisamatlan,San Luis Amatlán,Alto,Medio,Bajo,Muy bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio
+20236,sanmarcialozolotepec,San Marcial Ozolotepec,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
+20237,sanmarcosarteaga,San Marcos Arteaga,Bajo,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20238,sanmartindeloscansecos,San Martín de los Cansecos,Medio,Medio,Medio,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Bajo
+20239,sanmartinhuamelulpam,San Martín Huamelúlpam,Medio,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20240,sanmartinitunyoso,San Martín Itunyoso,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,,Medio,Muy bajo,Medio
+20241,sanmartinlachila,San Martín Lachilá,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20242,sanmartinperas,San Martín Peras,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Bajo,Medio
+20243,sanmartintilcajete,San Martín Tilcajete,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20244,sanmartintoxpalan,San Martín Toxpalan,Alto,Medio,Medio,Muy bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Medio
+20245,sanmartinzacatepec,San Martín Zacatepec,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20246,sanmateocajonos,San Mateo Cajonos,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20247,capulalpamdemendez,Capulálpam de Méndez,Muy bajo,Muy bajo,Medio,Alto,Alto,Bajo,Alto,Alto,Medio,Alto,Medio
+20248,sanmateodelmar,San Mateo del Mar,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20249,sanmateoyoloxochitlan,San Mateo Yoloxochitlán,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo,Medio
+20250,sanmateoetlatongo,San Mateo Etlatongo,Medio,Medio,Medio,Muy bajo,Medio,Bajo,Medio,Medio,Medio,Bajo,Alto
+20251,sanmateonejapam,San Mateo Nejápam,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,,Bajo,Bajo,Alto
+20252,sanmateopenasco,San Mateo Peñasco,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
+20253,sanmateopinas,San Mateo Piñas,Muy alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Bajo
+20254,sanmateoriohondo,San Mateo Río Hondo,Alto,Alto,Bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20255,sanmateosindihui,San Mateo Sindihui,Alto,Medio,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20256,sanmateotlapiltepec,San Mateo Tlapiltepec,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20257,sanmelchorbetaza,San Melchor Betaza,Alto,Alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Muy alto,Medio,Bajo,Medio
+20258,sanmiguelachiutla,San Miguel Achiutla,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Medio
+20259,sanmiguelahuehuetitlan,San Miguel Ahuehuetitlán,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Bajo,Bajo,Alto
+20260,sanmiguelaloapam,San Miguel Aloápam,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20261,sanmiguelamatitlan,San Miguel Amatitlán,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Bajo,Bajo,Alto
+20262,sanmiguelamatlan,San Miguel Amatlán,Bajo,Bajo,Bajo,Medio,Alto,Bajo,Medio,Alto,Medio,Alto,Medio
+20263,sanmiguelcoatlan,San Miguel Coatlán,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Alto
+20264,sanmiguelchicahua,San Miguel Chicahua,Alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Bajo,Alto
+20265,sanmiguelchimalapa,San Miguel Chimalapa,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20266,sanmigueldelpuerto,San Miguel del Puerto,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Medio,Medio
+20267,sanmigueldelrio,San Miguel del Río,Bajo,Bajo,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Alto,Bajo
+20268,sanmiguelejutla,San Miguel Ejutla,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Bajo
+20269,sanmiguelelgrande,San Miguel el Grande,Medio,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Medio,Alto
+20270,sanmiguelhuautla,San Miguel Huautla,Muy alto,Muy alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
+20271,sanmiguelmixtepec,San Miguel Mixtepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Muy bajo,Medio
+20272,sanmiguelpanixtlahuaca,San Miguel Panixtlahuaca,Alto,Medio,Medio,Muy bajo,,Alto,Medio,Medio,Medio,Medio,Medio
+20273,sanmiguelperas,San Miguel Peras,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20274,sanmiguelpiedras,San Miguel Piedras,Alto,Muy alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20275,sanmiguelquetzaltepec,San Miguel Quetzaltepec,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Medio
+20276,sanmiguelsantaflor,San Miguel Santa Flor,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
+20277,villasoladevega,Villa Sola de Vega,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Muy bajo
+20278,sanmiguelsoyaltepec,San Miguel Soyaltepec,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Muy bajo,Medio
+20279,sanmiguelsuchixtepec,San Miguel Suchixtepec,Medio,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Alto,Medio
+20280,villataleadecastro,Villa Talea de Castro,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
+20281,sanmigueltecomatlan,San Miguel Tecomatlán,Bajo,Bajo,Medio,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20282,sanmigueltenango,San Miguel Tenango,Alto,Medio,Bajo,Medio,,Medio,Medio,Alto,Medio,Bajo,Medio
+20283,sanmigueltequixtepec,San Miguel Tequixtepec,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
+20284,sanmigueltilquiapam,San Miguel Tilquiápam,Muy alto,Muy alto,Medio,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Bajo
+20285,sanmigueltlacamama,San Miguel Tlacamama,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Medio,Bajo,Medio,Medio
+20286,sanmigueltlacotepec,San Miguel Tlacotepec,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Bajo
+20287,sanmigueltulancingo,San Miguel Tulancingo,Medio,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Alto,Medio
+20288,sanmiguelyotao,San Miguel Yotao,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,,Medio,Muy bajo,Alto
+20289,sannicolas,San Nicolás,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20290,sannicolashidalgo,San Nicolás Hidalgo,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20291,sanpablocoatlan,San Pablo Coatlán,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
+20292,sanpablocuatrovenados,San Pablo Cuatro Venados,Muy alto,Alto,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
+20293,sanpabloetla,San Pablo Etla,Muy bajo,Muy bajo,Medio,Medio,,Bajo,Medio,Medio,Alto,Medio,Bajo
+20294,sanpablohuitzo,San Pablo Huitzo,Muy bajo,Bajo,Medio,Bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
+20295,sanpablohuixtepec,San Pablo Huixtepec,Muy bajo,Bajo,Medio,Medio,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20296,sanpablomacuiltianguis,San Pablo Macuiltianguis,Medio,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio,Alto
+20297,sanpablotijaltepec,San Pablo Tijaltepec,Muy alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
+20298,sanpablovillademitla,San Pablo Villa de Mitla,Medio,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
+20299,sanpabloyaganiza,San Pablo Yaganiza,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20300,sanpedroamuzgos,San Pedro Amuzgos,Alto,Alto,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Bajo,Medio
+20301,sanpedroapostol,San Pedro Apóstol,Medio,Bajo,Medio,Bajo,Alto,Medio,Alto,Alto,Medio,Medio,Medio
+20302,sanpedroatoyac,San Pedro Atoyac,Muy alto,Alto,Bajo,Muy bajo,,Alto,Medio,Medio,Medio,Bajo,Alto
+20303,sanpedrocajonos,San Pedro Cajonos,Medio,Medio,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
+20304,sanpedrocoxcaltepeccantaros,San Pedro Coxcaltepec Cántaros,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
+20305,sanpedrocomitancillo,San Pedro Comitancillo,Bajo,Muy bajo,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Bajo,Alto
+20306,sanpedroelalto,San Pedro el Alto,Muy alto,Alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
+20307,sanpedrohuamelula,San Pedro Huamelula,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Bajo,Medio
+20308,sanpedrohuilotepec,San Pedro Huilotepec,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Bajo,Bajo,Medio
+20309,sanpedroixcatlan,San Pedro Ixcatlán,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Alto,Medio,Medio,Muy bajo,Alto
+20310,sanpedroixtlahuaca,San Pedro Ixtlahuaca,Muy alto,Medio,Medio,Muy bajo,Bajo,Bajo,Medio,Alto,Medio,Bajo,Bajo
+20311,sanpedrojaltepetongo,San Pedro Jaltepetongo,Muy alto,Alto,Bajo,Muy bajo,Alto,Alto,Medio,Alto,Medio,Alto,Alto
+20312,sanpedrojicayan,San Pedro Jicayán,Muy alto,Alto,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Muy bajo,Bajo
+20313,sanpedrojocotipac,San Pedro Jocotipac,Alto,Alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
+20314,sanpedrojuchatengo,San Pedro Juchatengo,Medio,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Alto,Bajo
+20315,sanpedromartir,San Pedro Mártir,Muy alto,Muy alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Alto,Bajo,Bajo
+20316,sanpedromartirquiechapa,San Pedro Mártir Quiechapa,Medio,Medio,Bajo,Muy bajo,Alto,Bajo,Medio,Alto,Medio,Muy bajo,Medio
+20317,sanpedromartiryucuxaco,San Pedro Mártir Yucuxaco,Alto,Alto,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Bajo
+20318,sanpedromixtepec,San Pedro Mixtepec,Bajo,Bajo,Medio,Medio,Alto,Muy alto,Medio,Medio,Bajo,Medio,Bajo
+20319,sanpedromixtepec,San Pedro Mixtepec,Alto,Alto,Muy bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
+20320,sanpedromolinos,San Pedro Molinos,Medio,Medio,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Medio,Medio
+20321,sanpedronopala,San Pedro Nopala,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Muy bajo,Medio
+20322,sanpedroocopetatillo,San Pedro Ocopetatillo,Muy alto,Muy alto,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Bajo,Alto
+20323,sanpedroocotepec,San Pedro Ocotepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Alto
+20324,sanpedropochutla,San Pedro Pochutla,Alto,Medio,Medio,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
+20325,sanpedroquiatoni,San Pedro Quiatoni,Muy alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio
+20326,sanpedrosochiapam,San Pedro Sochiápam,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Muy bajo,Medio
+20327,sanpedrotapanatepec,San Pedro Tapanatepec,Medio,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
+20328,sanpedrotaviche,San Pedro Taviche,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20329,sanpedroteozacoalco,San Pedro Teozacoalco,Alto,Alto,Muy bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
+20330,sanpedroteutila,San Pedro Teutila,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Muy bajo,Alto
+20331,sanpedrotidaa,San Pedro Tidaá,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
+20332,sanpedrotopiltepec,San Pedro Topiltepec,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
+20333,sanpedrototolapam,San Pedro Totolápam,Bajo,Bajo,Medio,Bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20334,villadetututepec,Villa de Tututepec,Medio,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Bajo,Bajo,Medio
+20335,sanpedroyaneri,San Pedro Yaneri,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
+20336,sanpedroyolox,San Pedro Yólox,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Alto,Alto
+20337,sanpedroysanpabloayutla,San Pedro y San Pablo Ayutla,Muy alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Medio
+20338,villadeetla,Villa de Etla,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Bajo
+20339,sanpedroysanpabloteposcolula,San Pedro y San Pablo Teposcolula,Bajo,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
+20340,sanpedroysanpablotequixtepec,San Pedro y San Pablo Tequixtepec,Medio,Medio,Bajo,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20341,sanpedroyucunama,San Pedro Yucunama,Medio,Medio,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
+20342,sanraymundojalpan,San Raymundo Jalpan,Muy bajo,Muy bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Alto,Medio,Medio
+20343,sansebastianabasolo,San Sebastián Abasolo,Medio,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Bajo
+20344,sansebastiancoatlan,San Sebastián Coatlán,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Medio
+20345,sansebastianixcapa,San Sebastián Ixcapa,Alto,Medio,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Bajo,Medio
+20346,sansebastiannicananduta,San Sebastián Nicananduta,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Muy bajo,Medio
+20347,sansebastianriohondo,San Sebastián Río Hondo,Medio,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20348,sansebastiantecomaxtlahuaca,San Sebastián Tecomaxtlahuaca,Alto,Medio,Bajo,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
+20349,sansebastianteitipac,San Sebastián Teitipac,Alto,Medio,Medio,Muy bajo,,Medio,Medio,Medio,Medio,Medio,Bajo
+20350,sansebastiantutla,San Sebastián Tutla,Muy bajo,Muy bajo,Alto,Alto,Alto,Bajo,Medio,Medio,Alto,Alto,Bajo
+20351,sansimonalmolongas,San Simón Almolongas,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
+20352,sansimonzahuatlan,San Simón Zahuatlán,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Alto,,Bajo,Muy bajo,Muy bajo
+20353,santaana,Santa Ana,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20354,santaanaateixtlahuaca,Santa Ana Ateixtlahuaca,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Muy bajo
+20355,santaanacuauhtemoc,Santa Ana Cuauhtémoc,Alto,Alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Alto
+20356,santaanadelvalle,Santa Ana del Valle,Medio,Medio,Medio,Bajo,Alto,Medio,Alto,Medio,Medio,Medio,Muy bajo
+20357,santaanatavela,Santa Ana Tavela,Medio,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20358,santaanatlapacoyan,Santa Ana Tlapacoyan,Alto,Medio,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20359,santaanayareni,Santa Ana Yareni,Alto,Alto,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20360,santaanazegache,Santa Ana Zegache,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20361,santacatalinaquieri,Santa Catalina Quierí,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Muy alto,Medio,Medio,Alto
+20362,santacatarinacuixtla,Santa Catarina Cuixtla,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Alto,Medio,Alto,Medio
+20363,santacatarinaixtepeji,Santa Catarina Ixtepeji,Medio,Bajo,Bajo,Bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
+20364,santacatarinajuquila,Santa Catarina Juquila,Alto,Medio,Bajo,Bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
+20365,santacatarinalachatao,Santa Catarina Lachatao,Medio,Medio,Bajo,Bajo,Alto,Bajo,Medio,Alto,Medio,Alto,Medio
+20366,santacatarinaloxicha,Santa Catarina Loxicha,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20367,santacatarinamechoacan,Santa Catarina Mechoacán,Muy alto,Alto,Bajo,Muy bajo,,Medio,Alto,Medio,Medio,Muy bajo,Medio
+20368,santacatarinaminas,Santa Catarina Minas,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20369,santacatarinaquiane,Santa Catarina Quiané,Medio,Bajo,Medio,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Alto
+20370,santacatarinatayata,Santa Catarina Tayata,Bajo,Medio,Bajo,Muy bajo,,Bajo,Alto,Alto,Medio,Medio,Medio
+20371,santacatarinaticua,Santa Catarina Ticuá,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
+20372,santacatarinayosonotu,Santa Catarina Yosonotú,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
+20373,santacatarinazapoquila,Santa Catarina Zapoquila,Alto,Medio,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
+20374,santacruzacatepec,Santa Cruz Acatepec,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Alto
+20375,santacruzamilpas,Santa Cruz Amilpas,Muy bajo,Muy bajo,Medio,Alto,Medio,Bajo,Medio,Alto,Medio,Alto,Medio
+20376,santacruzdebravo,Santa Cruz de Bravo,Alto,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Alto,Alto
+20377,santacruzitundujia,Santa Cruz Itundujia,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
+20378,santacruzmixtepec,Santa Cruz Mixtepec,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Medio
+20379,santacruznundaco,Santa Cruz Nundaco,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
+20380,santacruzpapalutla,Santa Cruz Papalutla,Medio,Medio,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20381,santacruztacachedemina,Santa Cruz Tacache de Mina,Medio,Bajo,Bajo,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20382,santacruztacahua,Santa Cruz Tacahua,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
+20383,santacruztayata,Santa Cruz Tayata,Medio,Medio,Muy bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Bajo,Alto
+20384,santacruzxitla,Santa Cruz Xitla,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
+20385,santacruzxoxocotlan,Santa Cruz Xoxocotlán,Muy bajo,Bajo,Alto,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20386,santacruzzenzontepec,Santa Cruz Zenzontepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20387,santagertrudis,Santa Gertrudis,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
+20388,santainesdelmonte,Santa Inés del Monte,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Muy alto,Medio,Medio,Medio
+20389,santainesyatzeche,Santa Inés Yatzeche,Alto,Alto,Bajo,Bajo,Alto,Alto,Medio,Alto,Medio,Alto,Alto
+20390,santaluciadelcamino,Santa Lucía del Camino,Muy bajo,Muy bajo,Alto,Alto,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo
+20391,santaluciamiahuatlan,Santa Lucía Miahuatlán,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Medio
+20392,santaluciamonteverde,Santa Lucía Monteverde,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Alto
+20393,santaluciaocotlan,Santa Lucía Ocotlán,Alto,Alto,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
+20394,santamariaalotepec,Santa María Alotepec,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Alto,Medio
+20395,santamariaapazco,Santa María Apazco,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Medio,Medio
+20396,santamarialaasuncion,Santa María la Asunción,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Muy alto,Medio,Medio,Medio,Muy bajo,Alto
+20397,heroicaciudaddetlaxiaco,Heroica Ciudad de Tlaxiaco,Medio,Bajo,Medio,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Bajo
+20398,ayoquezcodealdama,Ayoquezco de Aldama,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Medio
+20399,santamariaatzompa,Santa María Atzompa,Bajo,Bajo,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20400,santamariacamotlan,Santa María Camotlán,Medio,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Medio
+20401,santamariacolotepec,Santa María Colotepec,Medio,Bajo,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Bajo,Bajo,Bajo
+20402,santamariacortijo,Santa María Cortijo,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Muy bajo,Medio
+20403,santamariacoyotepec,Santa María Coyotepec,Bajo,Bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
+20404,santamariachachoapam,Santa María Chachoápam,Bajo,Bajo,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
+20405,villadechilapadediaz,Villa de Chilapa de Díaz,Medio,Bajo,Bajo,Bajo,Medio,Medio,Alto,Alto,Medio,Medio,Medio
+20406,santamariachilchotla,Santa María Chilchotla,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Medio
+20407,santamariachimalapa,Santa María Chimalapa,Alto,Alto,Bajo,Muy bajo,Bajo,Alto,,Alto,Medio,Bajo,Medio
+20408,santamariadelrosario,Santa María del Rosario,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20409,santamariadeltule,Santa María del Tule,Muy bajo,Muy bajo,Alto,Alto,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio
+20410,santamariaecatepec,Santa María Ecatepec,Medio,Medio,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
+20411,santamariaguelace,Santa María Guelacé,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Medio,Medio,Medio,Bajo
+20412,santamariaguienagati,Santa María Guienagati,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20413,santamariahuatulco,Santa María Huatulco,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo
+20414,santamariahuazolotitlan,Santa María Huazolotitlán,Medio,Medio,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20415,santamariaipalapa,Santa María Ipalapa,Medio,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20416,santamariaixcatlan,Santa María Ixcatlán,Alto,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Muy bajo
+20417,santamariajacatepec,Santa María Jacatepec,Alto,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Muy bajo,Medio
+20418,santamariajalapadelmarques,Santa María Jalapa del Marqués,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Bajo
+20419,santamariajaltianguis,Santa María Jaltianguis,Bajo,Bajo,Medio,Bajo,Alto,Bajo,Medio,Alto,Medio,Alto,Alto
+20420,santamarialachixio,Santa María Lachixío,Alto,Alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Medio,Alto
+20421,santamariamixtequilla,Santa María Mixtequilla,Bajo,Bajo,Medio,Bajo,Medio,Medio,Medio,Alto,Medio,Medio,Alto
+20422,santamarianativitas,Santa María Nativitas,Medio,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20423,santamarianduayaco,Santa María Nduayaco,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20424,santamariaozolotepec,Santa María Ozolotepec,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20425,santamariapapalo,Santa María Pápalo,Alto,Alto,Muy bajo,Bajo,,Medio,Medio,Muy alto,Medio,Bajo,Medio
+20426,santamariapenoles,Santa María Peñoles,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Medio
+20427,santamariapetapa,Santa María Petapa,Medio,Bajo,Bajo,Muy bajo,,Medio,,Medio,Medio,Bajo,Bajo
+20428,santamariaquiegolani,Santa María Quiegolani,Alto,Medio,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Alto
+20429,santamariasola,Santa María Sola,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Bajo
+20430,santamariatataltepec,Santa María Tataltepec,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20431,santamariatecomavaca,Santa María Tecomavaca,Medio,Bajo,Medio,Muy bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio
+20432,santamariatemaxcalapa,Santa María Temaxcalapa,Bajo,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Bajo,Medio
+20433,santamariatemaxcaltepec,Santa María Temaxcaltepec,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Medio
+20434,santamariateopoxco,Santa María Teopoxco,Alto,Alto,Muy bajo,Bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Alto
+20435,santamariatepantlali,Santa María Tepantlali,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Alto,Medio
+20436,santamariatexcatitlan,Santa María Texcatitlán,Muy alto,Muy alto,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Muy bajo,Alto
+20437,santamariatlahuitoltepec,Santa María Tlahuitoltepec,Alto,Muy alto,Bajo,Muy bajo,Muy bajo,Alto,Alto,Medio,Medio,Medio,Medio
+20438,santamariatlalixtac,Santa María Tlalixtac,Alto,Alto,Muy bajo,Medio,,Alto,Medio,Alto,Medio,Bajo,Alto
+20439,santamariatonameca,Santa María Tonameca,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20440,santamariatotolapilla,Santa María Totolapilla,Alto,Medio,Bajo,Medio,,Medio,Medio,Alto,Bajo,Bajo,Alto
+20441,santamariaxadani,Santa María Xadani,Medio,Medio,Medio,Muy bajo,Muy bajo,Alto,Medio,Alto,Bajo,Bajo,Medio
+20442,santamariayalina,Santa María Yalina,Medio,Bajo,Bajo,Alto,Alto,Medio,Medio,Alto,Medio,Alto,Alto
+20443,santamariayavesia,Santa María Yavesía,Bajo,Bajo,Bajo,Medio,Alto,Bajo,Medio,Alto,Medio,Medio,Alto
+20444,santamariayolotepec,Santa María Yolotepec,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20445,santamariayosoyua,Santa María Yosoyúa,Medio,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Alto
+20446,santamariayucuhiti,Santa María Yucuhiti,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Muy bajo,Alto
+20447,santamariazacatepec,Santa María Zacatepec,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
+20448,santamariazaniza,Santa María Zaniza,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Medio,Medio,,Medio,Bajo,Alto
+20449,santamariazoquitlan,Santa María Zoquitlán,Alto,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Medio
+20450,santiagoamoltepec,Santiago Amoltepec,Muy alto,Muy alto,Muy bajo,Muy bajo,Bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20451,santiagoapoala,Santiago Apoala,Muy alto,Muy alto,Muy bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Bajo,Medio
+20452,santiagoapostol,Santiago Apóstol,Muy alto,Alto,Medio,Muy bajo,,Alto,Medio,Medio,Medio,Bajo,Bajo
+20453,santiagoastata,Santiago Astata,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Bajo,Bajo,Medio
+20454,santiagoatitlan,Santiago Atitlán,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20455,santiagoayuquililla,Santiago Ayuquililla,Alto,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20456,santiagocacaloxtepec,Santiago Cacaloxtepec,Alto,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Bajo,Medio,Medio
+20457,santiagocamotlan,Santiago Camotlán,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
+20458,santiagocomaltepec,Santiago Comaltepec,Medio,Bajo,Bajo,Medio,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20459,villadesantiagochazumba,Villa de Santiago Chazumba,Medio,Bajo,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Medio
+20460,santiagochoapam,Santiago Choápam,Alto,Alto,Muy bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Medio
+20461,santiagodelrio,Santiago del Río,Alto,Medio,Muy bajo,Bajo,,Alto,Alto,Medio,Medio,Bajo,Medio
+20462,santiagohuajolotitlan,Santiago Huajolotitlán,Bajo,Bajo,Bajo,Bajo,,Bajo,Alto,Medio,Medio,Medio,Bajo
+20463,santiagohuauclilla,Santiago Huauclilla,Medio,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Alto,Medio
+20464,santiagoihuitlanplumas,Santiago Ihuitlán Plumas,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Alto,Alto,Medio,Bajo,Medio
+20465,santiagoixcuintepec,Santiago Ixcuintepec,Alto,Alto,Muy bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20466,santiagoixtayutla,Santiago Ixtayutla,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Alto
+20467,santiagojamiltepec,Santiago Jamiltepec,Medio,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Medio,Medio,Bajo,Muy bajo
+20468,santiagojocotepec,Santiago Jocotepec,Alto,Alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Alto,Medio,Muy bajo,Bajo
+20469,santiagojuxtlahuaca,Santiago Juxtlahuaca,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Alto,Medio,Medio,Bajo,Bajo
+20470,santiagolachiguiri,Santiago Lachiguiri,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Medio
+20471,santiagolalopa,Santiago Lalopa,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20472,santiagolaollaga,Santiago Laollaga,Bajo,Bajo,Medio,Bajo,,Medio,Alto,Medio,Medio,Medio,Medio
+20473,santiagolaxopa,Santiago Laxopa,Bajo,Medio,Muy bajo,Medio,Medio,Bajo,Medio,Alto,Medio,Alto,Alto
+20474,santiagollanogrande,Santiago Llano Grande,Alto,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Muy bajo,Medio
+20475,santiagomatatlan,Santiago Matatlán,Alto,Medio,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Muy bajo
+20476,santiagomiltepec,Santiago Miltepec,Medio,Bajo,Muy bajo,Bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20477,santiagominas,Santiago Minas,Alto,Medio,Muy bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Alto
+20478,santiagonacaltepec,Santiago Nacaltepec,Medio,Medio,Muy bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20479,santiagonejapilla,Santiago Nejapilla,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20480,santiagonundiche,Santiago Nundiche,Muy alto,Muy alto,Muy bajo,Muy bajo,,Medio,Medio,,Medio,Muy bajo,Medio
+20481,santiagonuyoo,Santiago Nuyoó,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Alto
+20482,santiagopinotepanacional,Santiago Pinotepa Nacional,Alto,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo,Bajo,Bajo
+20483,santiagosuchilquitongo,Santiago Suchilquitongo,Bajo,Bajo,Medio,Muy bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Bajo
+20484,santiagotamazola,Santiago Tamazola,Alto,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
+20485,santiagotapextla,Santiago Tapextla,Muy alto,Alto,Bajo,Muy bajo,,Alto,Medio,Medio,Medio,Muy bajo,Medio
+20486,villatejupamdelaunion,Villa Tejúpam de la Unión,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20487,santiagotenango,Santiago Tenango,Medio,Medio,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Bajo
+20488,santiagotepetlapa,Santiago Tepetlapa,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Alto,Medio
+20489,santiagotetepec,Santiago Tetepec,Alto,Medio,Bajo,Muy bajo,Muy bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20490,santiagotexcalcingo,Santiago Texcalcingo,Alto,Alto,Muy bajo,Bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20491,santiagotextitlan,Santiago Textitlán,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
+20492,santiagotilantongo,Santiago Tilantongo,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Alto
+20493,santiagotillo,Santiago Tillo,Bajo,Bajo,Medio,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20494,santiagotlazoyaltepec,Santiago Tlazoyaltepec,Muy alto,Muy alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20495,santiagoxanica,Santiago Xanica,Muy alto,Muy alto,Muy bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Medio
+20496,santiagoxiacui,Santiago Xiacuí,Bajo,Bajo,Medio,Bajo,Medio,Bajo,Medio,Alto,Medio,Medio,Medio
+20497,santiagoyaitepec,Santiago Yaitepec,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Medio,Medio,Bajo,Bajo,Medio
+20498,santiagoyaveo,Santiago Yaveo,Muy alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20499,santiagoyolomecatl,Santiago Yolomécatl,Bajo,Bajo,Medio,Medio,Alto,Bajo,Alto,Medio,Medio,Medio,Medio
+20500,santiagoyosondua,Santiago Yosondúa,Alto,Alto,Bajo,Muy bajo,Medio,Medio,Medio,Medio,Medio,Medio,Alto
+20501,santiagoyucuyachi,Santiago Yucuyachi,Alto,Medio,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20502,santiagozacatepec,Santiago Zacatepec,Muy alto,Muy alto,Bajo,Muy bajo,Alto,Alto,Medio,Alto,Medio,Muy bajo,Alto
+20503,santiagozoochila,Santiago Zoochila,Bajo,Bajo,Bajo,Medio,,Medio,Medio,Alto,Medio,Medio,Medio
+20504,nuevozoquiapam,Nuevo Zoquiápam,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Alto
+20505,santodomingoingenio,Santo Domingo Ingenio,Bajo,Bajo,Medio,Medio,Bajo,Medio,Medio,Alto,Medio,Bajo,Medio
+20506,santodomingoalbarradas,Santo Domingo Albarradas,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20507,santodomingoarmenta,Santo Domingo Armenta,Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo,Medio
+20508,santodomingochihuitan,Santo Domingo Chihuitán,Bajo,Bajo,Medio,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Alto
+20509,santodomingodemorelos,Santo Domingo de Morelos,Muy alto,Muy alto,Bajo,Muy bajo,Bajo,Alto,Alto,Medio,Medio,Muy bajo,Alto
+20510,santodomingoixcatlan,Santo Domingo Ixcatlán,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Alto,Alto
+20511,santodomingonuxaa,Santo Domingo Nuxaá,Muy alto,Muy alto,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Alto
+20512,santodomingoozolotepec,Santo Domingo Ozolotepec,Alto,Alto,Muy bajo,Bajo,Bajo,Alto,Medio,Muy alto,Medio,Bajo,Medio
+20513,santodomingopetapa,Santo Domingo Petapa,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20514,santodomingoroayaga,Santo Domingo Roayaga,Muy alto,Muy alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Alto,Muy bajo,Bajo
+20515,santodomingotehuantepec,Santo Domingo Tehuantepec,Bajo,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio,Bajo,Bajo
+20516,santodomingoteojomulco,Santo Domingo Teojomulco,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio,Alto
+20517,santodomingotepuxtepec,Santo Domingo Tepuxtepec,Muy alto,Muy alto,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Medio,Medio
+20518,santodomingotlatayapam,Santo Domingo Tlatayápam,Bajo,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Bajo,Bajo
+20519,santodomingotomaltepec,Santo Domingo Tomaltepec,Medio,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Bajo
+20520,santodomingotonala,Santo Domingo Tonalá,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20521,santodomingotonaltepec,Santo Domingo Tonaltepec,Medio,Medio,Muy bajo,Bajo,Alto,Medio,Alto,Alto,Medio,Medio,Medio
+20522,santodomingoxagacia,Santo Domingo Xagacía,Alto,Alto,Muy bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20523,santodomingoyanhuitlan,Santo Domingo Yanhuitlán,Medio,Bajo,Medio,Bajo,,Medio,Alto,Medio,Medio,Bajo,Medio
+20524,santodomingoyodohino,Santo Domingo Yodohino,Bajo,Bajo,Muy bajo,Muy bajo,Alto,Bajo,Medio,Alto,Medio,Medio,Medio
+20525,santodomingozanatepec,Santo Domingo Zanatepec,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Medio,Bajo,Medio
+20526,santosreyesnopala,Santos Reyes Nopala,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
+20527,santosreyespapalo,Santos Reyes Pápalo,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Medio,Medio,Bajo,Medio
+20528,santosreyestepejillo,Santos Reyes Tepejillo,Alto,Medio,Bajo,Muy bajo,,Alto,Medio,Alto,Medio,Bajo,Medio
+20529,santosreyesyucuna,Santos Reyes Yucuná,Muy alto,Alto,Bajo,Bajo,Alto,Alto,Alto,Alto,Bajo,Bajo,Alto
+20530,santotomasjalieza,Santo Tomás Jalieza,Alto,Medio,Medio,Muy bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Medio
+20531,santotomasmazaltepec,Santo Tomás Mazaltepec,Medio,Bajo,Medio,Bajo,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
+20532,santotomasocotepec,Santo Tomás Ocotepec,Alto,Alto,Muy bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Alto,Bajo
+20533,santotomastamazulapan,Santo Tomás Tamazulapan,Medio,Bajo,Medio,Bajo,Medio,Medio,Alto,Medio,Medio,Medio,Bajo
+20534,sanvicentecoatlan,San Vicente Coatlán,Alto,Muy alto,Bajo,Muy bajo,Medio,Alto,Medio,Medio,Medio,Medio,Medio
+20535,sanvicentelachixio,San Vicente Lachixío,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
+20536,sanvicentenunu,San Vicente Nuñú,Bajo,Bajo,Bajo,Muy bajo,,Bajo,Medio,Alto,Medio,Medio,Alto
+20537,silacayoapam,Silacayoápam,Alto,Bajo,Bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Bajo,Medio
+20538,sitiodexitlapehua,Sitio de Xitlapehua,Medio,Medio,Bajo,Muy bajo,,Medio,Medio,Alto,Bajo,Medio,Medio
+20539,soledadetla,Soledad Etla,Bajo,Bajo,Medio,Medio,Medio,Bajo,Medio,Alto,Medio,Medio,Medio
+20540,villadetamazulapamdelprogreso,Villa de Tamazulápam del Progreso,Bajo,Bajo,Medio,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Medio
+20541,tanetzedezaragoza,Tanetze de Zaragoza,Medio,Medio,Bajo,Bajo,,Bajo,Medio,Alto,Medio,Medio,Medio
+20542,taniche,Taniche,Medio,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Medio
+20543,tataltepecdevaldes,Tataltepec de Valdés,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Bajo,Muy bajo,Alto
+20544,teococuilcodemarcosperez,Teococuilco de Marcos Pérez,Alto,Medio,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20545,teotitlandefloresmagon,Teotitlán de Flores Magón,Bajo,Bajo,Medio,Medio,Alto,Medio,Alto,Medio,Medio,Medio,Medio
+20546,teotitlandelvalle,Teotitlán del Valle,Alto,Medio,Medio,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
+20547,teotongo,Teotongo,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Alto,Medio,Bajo,Alto
+20548,tepelmemevillademorelos,Tepelmeme Villa de Morelos,Alto,Medio,Medio,Bajo,Alto,Medio,Medio,Medio,Medio,Medio,Medio
+20549,"heroicavillatezoatlandesegurayluna,cunadelaindependenciadeoaxaca","Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",Alto,Medio,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
+20550,sanjeronimotlacochahuaya,San Jerónimo Tlacochahuaya,Medio,Bajo,Medio,Bajo,Alto,Medio,Alto,Alto,Medio,Medio,Medio
+20551,tlacoluladematamoros,Tlacolula de Matamoros,Bajo,Bajo,Medio,Medio,Muy bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20552,tlacotepecplumas,Tlacotepec Plumas,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Bajo,Alto
+20553,tlalixtacdecabrera,Tlalixtac de Cabrera,Muy bajo,Bajo,Medio,Bajo,Alto,Bajo,Alto,Medio,Medio,Alto,Muy bajo
+20554,totontepecvillademorelos,Totontepec Villa de Morelos,Alto,Alto,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio
+20555,trinidadzaachila,Trinidad Zaachila,Medio,Bajo,Medio,Muy bajo,Alto,Medio,Medio,Alto,Medio,Medio,Bajo
+20556,latrinidadvistahermosa,La Trinidad Vista Hermosa,Medio,Bajo,Medio,Medio,,Medio,Medio,Alto,Medio,Medio,Medio
+20557,unionhidalgo,Unión Hidalgo,Muy bajo,Muy bajo,Medio,Bajo,Bajo,Medio,Medio,Alto,Medio,Bajo,Bajo
+20558,valeriotrujano,Valerio Trujano,Medio,Bajo,Bajo,Muy bajo,Alto,Medio,Medio,Medio,Medio,Medio,Alto
+20559,sanjuanbautistavallenacional,San Juan Bautista Valle Nacional,Medio,Bajo,Bajo,Bajo,Alto,Medio,Alto,Medio,Medio,Bajo,Medio
+20560,villadiazordaz,Villa Díaz Ordaz,Alto,Medio,Bajo,Muy bajo,Medio,Medio,Medio,Alto,Medio,Medio,Muy bajo
+20561,yaxe,Yaxe,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Medio
+20562,magdalenayodoconodeporfiriodiaz,Magdalena Yodocono de Porfirio Díaz,Medio,Bajo,Bajo,Bajo,Alto,Medio,Medio,Alto,Medio,Medio,Medio
+20563,yogana,Yogana,Muy alto,Alto,Bajo,Muy bajo,Medio,Alto,Medio,Alto,Medio,Alto,Medio
+20564,yutanduchideguerrero,Yutanduchi de Guerrero,Alto,Alto,Bajo,Muy bajo,Alto,Medio,Medio,Alto,Medio,Muy bajo,Alto
+20565,villadezaachila,Villa de Zaachila,Alto,Medio,Medio,Bajo,Bajo,Bajo,Medio,Medio,Medio,Medio,Bajo
+20566,sanmateoyucutindoo,San Mateo Yucutindoo,Alto,Alto,Bajo,Muy bajo,Bajo,Medio,Medio,Alto,Medio,Medio,Alto
+20567,zapotitlanlagunas,Zapotitlán Lagunas,Muy alto,Medio,Bajo,Muy bajo,Muy bajo,Alto,Medio,Medio,Medio,Bajo,Medio
+20568,zapotitlanpalmas,Zapotitlán Palmas,Medio,Bajo,Bajo,Bajo,,Medio,Medio,Alto,Medio,Bajo,Medio
+20569,santainesdezaragoza,Santa Inés de Zaragoza,Alto,Alto,Bajo,Muy bajo,,Medio,Medio,Alto,Medio,Medio,Alto
+20570,zimatlandealvarez,Zimatlán de Álvarez,Medio,Bajo,Medio,Bajo,Medio,Medio,Medio,Medio,Medio,Medio,Bajo

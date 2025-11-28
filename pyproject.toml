@@ -5,6 +5,7 @@ description = "A recommendation system for Oaxaca municipalities."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "flet[all]>=0.28.3",
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pyswip>=0.3.3",
@@ -14,7 +15,7 @@ dependencies = [
 ]
 
 [project.scripts]
-ai-muni-rec = "ai_muni_rec.main:main"
+app = "ai_muni_rec.main:main"
 
 [build-system]
 requires = ["uv_build>=0.8.23,<0.9.0"]

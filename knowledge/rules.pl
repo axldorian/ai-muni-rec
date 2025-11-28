@@ -1,1 +1,0 @@
-% Reglas de inferencia

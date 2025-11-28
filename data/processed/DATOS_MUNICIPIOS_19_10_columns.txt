@@ -1,0 +1,69 @@
+Clave municipio
+Municipio
+Población total
+Localidades por municipio
+Población de 3 a 5 años
+Población de 6 a 11 años
+Población de 8 a 14 años
+Población de 15 años y más
+Población de 15 años y más sin escolaridad
+Población de 15 años y más con primaria incompleta
+Población de 15 años y más con secundaria incompleta
+Población de 3 años y más que habla alguna lengua indígena
+Población de 3 años y más que habla alguna lengua indígena y no habla español
+Población que se considera afromexicana o afrodescendiente
+Población con discapacidad
+Población de 3 a 5 años que no asiste a la escuela
+Población de 6 a 11 años que no asiste a la escuela
+Población de 12 a 14 años que no asiste a la escuela
+Población de 15 años y más analfabeta
+Grado promedio de escolaridad
+Total de viviendas
+Total de viviendas habitadas
+SBASC
+OVSDE
+OVSEE
+OVSAE
+OVPT
+VHAC
+PL.5000
+PO2SM
+IM_2020
+GM_2020
+IMN_2020
+Lugar que ocupa en el contexto estatal
+Lugar que ocupa en el contexto nacional
+Escuelas Prees
+Alumnos Prees
+Docentes Prees
+Total de grupos Prescolar
+Grupos Multi Grado Prees
+Escuelas Prim
+Alumnos Prim
+Docentes Prim
+Nuevo Ingreso Prim
+Total de grupos Primaria
+Grupos Multi Grado Prim
+Escuelas Sec
+Alumnos Sec
+Docentes Sec
+Nuevo Ingreso  Sec
+Total de grupos Secundaria
+Grupos Multi Grado Sec
+Tasa de analfabetización
+Tasa de Escolarización Preescolar
+Tasa de Escolarización Primaria
+Tasa de Escolarización Secundaria
+Rezago Educativo
+Tasa de grupos multigrado Preescolar
+Tasa de grupos multigrado Primaria
+Tasa de grupos multigrado Secundaria 
+Indice de dispersion Preescolar
+Indice de dispersion Primaria
+Indice de dispersion Secundaria
+Clasificacion Escolaridad Preescolar
+Clasificacion Escolaridad Primaria
+Clasificacion Escolaridad Secundaria
+Clasificación dispersión educativa Preescolar
+Clasificación dispersión educativa Primaria
+Clasificación dispersión educativa Secundaria

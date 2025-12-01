@@ -17,8 +17,8 @@
 % =============================================================================
 
 % --- Ruta del archivo de datos ---
-% Ruta fija al archivo CSV con los indicadores municipales
-ruta_csv_indicadores('/home/axl/master-courses/ai-muni-rec/data/processed/indicators_municipal_v2.csv').
+% Ruta al archivo CSV con los indicadores municipales
+ruta_csv_indicadores('./data/processed/indicators_municipal_v2.csv').
 
 % --- Lista de aspectos/indicadores evaluados ---
 aspectos([
